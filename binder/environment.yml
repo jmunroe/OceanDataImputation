@@ -9,3 +9,4 @@ dependencies:
   - nodejs
   - mystmd
   - jupyterlab
+  - tqdm
