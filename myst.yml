@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 50e2d94a-f23f-498b-b051-1d8bdf191b55
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/jmunroe/OceanDataImputation
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
