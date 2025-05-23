@@ -6,3 +6,6 @@ dependencies:
   - matplotlib
   - pandas
   - erddap
+  - nodejs
+  - mystmd
+  - jupyterlab
