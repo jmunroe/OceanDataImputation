@@ -1,6 +1,7 @@
 segment,waterbody,station,depth (m),deployment_start_date (UTC),deployment_end_date (UTC)
 Annapolis_Annapolis Basin_Cornwallis_2.0_2020-06-11T00:00:00Z_2020-11-22T00:00:00Z,Annapolis Basin,Cornwallis,2.0,2020-06-11T00:00:00Z,2020-11-22T00:00:00Z
 Annapolis_Annapolis Basin_Lobster Ledge_2.0_2020-06-11T00:00:00Z_2020-11-22T00:00:00Z,Annapolis Basin,Lobster Ledge,2.0,2020-06-11T00:00:00Z,2020-11-22T00:00:00Z
+Annapolis_Annapolis Basin_Lobster Ledge_6.0_2020-06-11T00:00:00Z_2020-11-22T00:00:00Z,Annapolis Basin,Lobster Ledge,6.0,2020-06-11T00:00:00Z,2020-11-22T00:00:00Z
 Annapolis_Annapolis Basin_Lobster Ledge_4.0_2020-06-11T00:00:00Z_2020-11-22T00:00:00Z,Annapolis Basin,Lobster Ledge,4.0,2020-06-11T00:00:00Z,2020-11-22T00:00:00Z
 Annapolis_Annapolis Basin_Cornwallis_1.0_2020-06-11T00:00:00Z_2020-11-22T00:00:00Z,Annapolis Basin,Cornwallis,1.0,2020-06-11T00:00:00Z,2020-11-22T00:00:00Z
 Annapolis_Annapolis Basin_Cornwallis_1.0_2020-11-22T00:00:00Z_2021-06-16T00:00:00Z,Annapolis Basin,Cornwallis,1.0,2020-11-22T00:00:00Z,2021-06-16T00:00:00Z
@@ -21,6 +22,7 @@ Antigonish_Grahams Cove_Captains Pond_1.0_2020-10-01T00:00:00Z_2021-06-03T00:00:
 Antigonish_Grahams Cove_Captains Pond_2.0_2020-10-01T00:00:00Z_2021-06-03T00:00:00Z,Grahams Cove,Captains Pond,2.0,2020-10-01T00:00:00Z,2021-06-03T00:00:00Z
 Antigonish_Antigonish Harbour_Southside_1.5_2021-06-03T00:00:00Z_2021-06-24T00:00:00Z,Antigonish Harbour,Southside,1.5,2021-06-03T00:00:00Z,2021-06-24T00:00:00Z
 Antigonish_Grahams Cove_Captains Pond_0.4_2021-06-03T00:00:00Z_2022-05-25T00:00:00Z,Grahams Cove,Captains Pond,0.4,2021-06-03T00:00:00Z,2022-05-25T00:00:00Z
+Antigonish_Grahams Cove_Captains Pond_1.3_2021-06-03T00:00:00Z_2022-05-25T00:00:00Z,Grahams Cove,Captains Pond,1.3,2021-06-03T00:00:00Z,2022-05-25T00:00:00Z
 Antigonish_Monks Head Harbour_Monks Head_0.8_2021-06-03T00:00:00Z_2021-06-24T00:00:00Z,Monks Head Harbour,Monks Head,0.8,2021-06-03T00:00:00Z,2021-06-24T00:00:00Z
 Antigonish_Antigonish Harbour_Southside_1.5_2021-06-24T00:00:00Z_2021-10-20T00:00:00Z,Antigonish Harbour,Southside,1.5,2021-06-24T00:00:00Z,2021-10-20T00:00:00Z
 Antigonish_Antigonish Harbour_Southside_1.0_2021-06-24T00:00:00Z_2021-10-20T00:00:00Z,Antigonish Harbour,Southside,1.0,2021-06-24T00:00:00Z,2021-10-20T00:00:00Z
@@ -32,6 +34,7 @@ Antigonish_Antigonish Harbour_Southside_1.0_2021-10-20T00:00:00Z_2022-05-25T00:0
 Antigonish_Antigonish Harbour_Southside_1.5_2021-10-20T00:00:00Z_2022-05-25T00:00:00Z,Antigonish Harbour,Southside,1.5,2021-10-20T00:00:00Z,2022-05-25T00:00:00Z
 Antigonish_Antigonish Harbour_Southside_1.5_2022-05-25T00:00:00Z_2022-10-20T00:00:00Z,Antigonish Harbour,Southside,1.5,2022-05-25T00:00:00Z,2022-10-20T00:00:00Z
 Antigonish_Antigonish Harbour_Southside_1.0_2022-05-25T00:00:00Z_2022-10-20T00:00:00Z,Antigonish Harbour,Southside,1.0,2022-05-25T00:00:00Z,2022-10-20T00:00:00Z
+Antigonish_Grahams Cove_Captains Pond_1.5_2022-05-25T00:00:00Z_2022-10-20T00:00:00Z,Grahams Cove,Captains Pond,1.5,2022-05-25T00:00:00Z,2022-10-20T00:00:00Z
 Antigonish_Grahams Cove_Captains Pond_0.5_2022-05-25T00:00:00Z_2022-10-20T00:00:00Z,Grahams Cove,Captains Pond,0.5,2022-05-25T00:00:00Z,2022-10-20T00:00:00Z
 Antigonish_Monks Head Harbour_Monks Head_1.5_2022-05-25T00:00:00Z_2022-09-29T00:00:00Z,Monks Head Harbour,Monks Head,1.5,2022-05-25T00:00:00Z,2022-09-29T00:00:00Z
 Antigonish_Monks Head Harbour_Monks Head_1.0_2022-05-25T00:00:00Z_2022-09-29T00:00:00Z,Monks Head Harbour,Monks Head,1.0,2022-05-25T00:00:00Z,2022-09-29T00:00:00Z
@@ -45,10 +48,10 @@ Antigonish_Monks Head Harbour_Monks Head_0.8_2022-09-29T00:00:00Z_2023-06-27T00:
 Antigonish_Monks Head Harbour_Monks Head_1.6_2022-09-29T00:00:00Z_2023-06-27T00:00:00Z,Monks Head Harbour,Monks Head,1.6,2022-09-29T00:00:00Z,2023-06-27T00:00:00Z
 Antigonish_Antigonish Harbour_Southside_1.5_2022-10-20T00:00:00Z_2023-06-26T00:00:00Z,Antigonish Harbour,Southside,1.5,2022-10-20T00:00:00Z,2023-06-26T00:00:00Z
 Antigonish_Antigonish Harbour_Southside_1.0_2022-10-20T00:00:00Z_2023-06-26T00:00:00Z,Antigonish Harbour,Southside,1.0,2022-10-20T00:00:00Z,2023-06-26T00:00:00Z
-Antigonish_Grahams Cove_Captains Pond_0.4_2022-10-20T00:00:00Z_2023-06-26T00:00:00Z,Grahams Cove,Captains Pond,0.4,2022-10-20T00:00:00Z,2023-06-26T00:00:00Z
-Antigonish_Antigonish Harbour_Southside_1.5_2023-06-26T00:00:00Z_2023-11-01T00:00:00Z,Antigonish Harbour,Southside,1.5,2023-06-26T00:00:00Z,2023-11-01T00:00:00Z
 Antigonish_Grahams Cove_Captains Pond_1.3_2022-10-20T00:00:00Z_2023-06-26T00:00:00Z,Grahams Cove,Captains Pond,1.3,2022-10-20T00:00:00Z,2023-06-26T00:00:00Z
+Antigonish_Grahams Cove_Captains Pond_0.4_2022-10-20T00:00:00Z_2023-06-26T00:00:00Z,Grahams Cove,Captains Pond,0.4,2022-10-20T00:00:00Z,2023-06-26T00:00:00Z
 Antigonish_Antigonish Harbour_Southside_1.0_2023-06-26T00:00:00Z_2023-11-01T00:00:00Z,Antigonish Harbour,Southside,1.0,2023-06-26T00:00:00Z,2023-11-01T00:00:00Z
+Antigonish_Antigonish Harbour_Southside_1.5_2023-06-26T00:00:00Z_2023-11-01T00:00:00Z,Antigonish Harbour,Southside,1.5,2023-06-26T00:00:00Z,2023-11-01T00:00:00Z
 Antigonish_Grahams Cove_Captains Pond_1.3_2023-06-26T00:00:00Z_2023-11-01T00:00:00Z,Grahams Cove,Captains Pond,1.3,2023-06-26T00:00:00Z,2023-11-01T00:00:00Z
 Antigonish_Grahams Cove_Captains Pond_0.4_2023-06-26T00:00:00Z_2023-11-01T00:00:00Z,Grahams Cove,Captains Pond,0.4,2023-06-26T00:00:00Z,2023-11-01T00:00:00Z
 Antigonish_Monks Head Harbour_Monks Head_1.6_2023-06-27T00:00:00Z_2023-11-01T00:00:00Z,Monks Head Harbour,Monks Head,1.6,2023-06-27T00:00:00Z,2023-11-01T00:00:00Z
@@ -75,17 +78,17 @@ Antigonish_Antigonish Harbour_1443_2.0_2024-07-04T00:00:00Z_2024-10-18T00:00:00Z
 Antigonish_Antigonish Harbour_1443_0.5_2024-07-04T00:00:00Z_2024-10-18T00:00:00Z,Antigonish Harbour,1443,0.5,2024-07-04T00:00:00Z,2024-10-18T00:00:00Z
 Antigonish_Antigonish Harbour_1443_1.0_2024-07-04T00:00:00Z_2024-10-18T00:00:00Z,Antigonish Harbour,1443,1.0,2024-07-04T00:00:00Z,2024-10-18T00:00:00Z
 Colchester_Tatamagouche Bay_Malagash_5.0_2020-10-01T00:00:00Z_2021-06-24T00:00:00Z,Tatamagouche Bay,Malagash,5.0,2020-10-01T00:00:00Z,2021-06-24T00:00:00Z
-Colchester_Tatamagouche Bay_Malagash_2.0_2020-10-01T00:00:00Z_2021-06-24T00:00:00Z,Tatamagouche Bay,Malagash,2.0,2020-10-01T00:00:00Z,2021-06-24T00:00:00Z
 Colchester_Tatamagouche Bay_Malagash_7.0_2020-10-01T00:00:00Z_2021-06-24T00:00:00Z,Tatamagouche Bay,Malagash,7.0,2020-10-01T00:00:00Z,2021-06-24T00:00:00Z
+Colchester_Tatamagouche Bay_Malagash_2.0_2020-10-01T00:00:00Z_2021-06-24T00:00:00Z,Tatamagouche Bay,Malagash,2.0,2020-10-01T00:00:00Z,2021-06-24T00:00:00Z
 Colchester_Tatamagouche Bay_Malagash_7.0_2021-06-24T00:00:00Z_2022-06-03T00:00:00Z,Tatamagouche Bay,Malagash,7.0,2021-06-24T00:00:00Z,2022-06-03T00:00:00Z
 Colchester_Tatamagouche Bay_Malagash_2.0_2021-06-24T00:00:00Z_2022-06-03T00:00:00Z,Tatamagouche Bay,Malagash,2.0,2021-06-24T00:00:00Z,2022-06-03T00:00:00Z
 Colchester_Tatamagouche Bay_Malagash_5.0_2021-06-24T00:00:00Z_2022-06-03T00:00:00Z,Tatamagouche Bay,Malagash,5.0,2021-06-24T00:00:00Z,2022-06-03T00:00:00Z
 Colchester_Tatamagouche Bay_Malagash_5.0_2022-06-03T00:00:00Z_2023-06-07T00:00:00Z,Tatamagouche Bay,Malagash,5.0,2022-06-03T00:00:00Z,2023-06-07T00:00:00Z
 Colchester_Tatamagouche Bay_Malagash_2.0_2022-06-03T00:00:00Z_2023-06-07T00:00:00Z,Tatamagouche Bay,Malagash,2.0,2022-06-03T00:00:00Z,2023-06-07T00:00:00Z
+Colchester_Tatamagouche Bay_Malagash_7.0_2022-06-03T00:00:00Z_2023-06-07T00:00:00Z,Tatamagouche Bay,Malagash,7.0,2022-06-03T00:00:00Z,2023-06-07T00:00:00Z
 Colchester_McNabs Bay_McNabs Point 3_0.5_2022-06-08T00:00:00Z_2022-09-20T00:00:00Z,McNabs Bay,McNabs Point 3,0.5,2022-06-08T00:00:00Z,2022-09-20T00:00:00Z
 Colchester_McNabs Bay_McNabs Point 2_0.5_2022-06-08T00:00:00Z_2022-09-20T00:00:00Z,McNabs Bay,McNabs Point 2,0.5,2022-06-08T00:00:00Z,2022-09-20T00:00:00Z
 Colchester_McNabs Bay_McNabs Point 1_0.5_2022-06-08T00:00:00Z_2022-09-20T00:00:00Z,McNabs Bay,McNabs Point 1,0.5,2022-06-08T00:00:00Z,2022-09-20T00:00:00Z
-Colchester_Tatamagouche Bay_Malagash_7.0_2022-06-03T00:00:00Z_2023-06-07T00:00:00Z,Tatamagouche Bay,Malagash,7.0,2022-06-03T00:00:00Z,2023-06-07T00:00:00Z
 Digby_St. Marys Bay_Long Beach_2.0_2020-07-16T00:00:00Z_2020-11-29T00:00:00Z,St. Marys Bay,Long Beach,2.0,2020-07-16T00:00:00Z,2020-11-29T00:00:00Z
 Digby_St. Marys Bay_Long Island 1_15.0_2020-07-16T00:00:00Z_2020-11-29T00:00:00Z,St. Marys Bay,Long Island 1,15.0,2020-07-16T00:00:00Z,2020-11-29T00:00:00Z
 Digby_St. Marys Bay_Long Island 2_2.0_2020-07-16T00:00:00Z_2020-11-29T00:00:00Z,St. Marys Bay,Long Island 2,2.0,2020-07-16T00:00:00Z,2020-11-29T00:00:00Z
@@ -158,24 +161,57 @@ Digby_St. Marys Bay_Long Island 2_30.0_2023-10-13T00:00:00Z_2024-02-26T00:00:00Z
 Digby_St. Marys Bay_Long Beach 1_10.0_2023-10-13T00:00:00Z_2024-06-04T00:00:00Z,St. Marys Bay,Long Beach 1,10.0,2023-10-13T00:00:00Z,2024-06-04T00:00:00Z
 Digby_St. Marys Bay_Sandy Cove_18.0_2023-10-13T00:00:00Z_2024-06-04T00:00:00Z,St. Marys Bay,Sandy Cove,18.0,2023-10-13T00:00:00Z,2024-06-04T00:00:00Z
 Digby_St. Marys Bay_Long Beach 1_30.0_2023-10-13T00:00:00Z_2024-06-04T00:00:00Z,St. Marys Bay,Long Beach 1,30.0,2023-10-13T00:00:00Z,2024-06-04T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_26.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Dorts Cove 1,26.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
 Guysborough_Chedabucto Bay_Dorts Cove 1_2.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Dorts Cove 1,2.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_10.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Dorts Cove 1,10.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_20.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Dorts Cove 1,20.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_25.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Moose Point 1,25.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_2.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Moose Point 1,2.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_20.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Moose Point 1,20.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_15.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Moose Point 1,15.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_10.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Moose Point 1,10.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_25.0_2020-05-21T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Rook Island 1,25.0,2020-05-21T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_75.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Tickle Island 1,75.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_15.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Tickle Island 1,15.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_40.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Tickle Island 1,40.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_2.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Tickle Island 1,2.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_10.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Tickle Island 1,10.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_30.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Tickle Island 1,30.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_50.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Tickle Island 1,50.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_20.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Tickle Island 1,20.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
+Guysborough_Dover Bay_Madeline Point 1_22.0_2020-02-26T00:00:00Z_2020-10-20T00:00:00Z,Dover Bay,Madeline Point 1,22.0,2020-02-26T00:00:00Z,2020-10-20T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_2.0_2020-02-26T00:00:00Z_2020-10-20T00:00:00Z,Dover Bay,Madeline Point 1,2.0,2020-02-26T00:00:00Z,2020-10-20T00:00:00Z
+Guysborough_Dover Bay_Madeline Point 1_10.0_2020-02-26T00:00:00Z_2020-10-20T00:00:00Z,Dover Bay,Madeline Point 1,10.0,2020-02-26T00:00:00Z,2020-10-20T00:00:00Z
+Guysborough_Dover Bay_Seal Cove 1_20.0_2020-02-26T00:00:00Z_2020-10-20T00:00:00Z,Dover Bay,Seal Cove 1,20.0,2020-02-26T00:00:00Z,2020-10-20T00:00:00Z
 Guysborough_Dover Bay_Seal Cove 1_15.0_2020-02-26T00:00:00Z_2020-10-20T00:00:00Z,Dover Bay,Seal Cove 1,15.0,2020-02-26T00:00:00Z,2020-10-20T00:00:00Z
+Guysborough_Dover Bay_Seal Cove 1_10.0_2020-02-26T00:00:00Z_2020-10-20T00:00:00Z,Dover Bay,Seal Cove 1,10.0,2020-02-26T00:00:00Z,2020-10-20T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_20.0_2020-05-20T00:00:00Z_2020-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,20.0,2020-05-20T00:00:00Z,2020-10-19T00:00:00Z
+Guysborough_Marie Joseph Harbour_Barren Island_15.0_2020-05-27T00:00:00Z_2021-08-09T00:00:00Z,Marie Joseph Harbour,Barren Island,15.0,2020-05-27T00:00:00Z,2021-08-09T00:00:00Z
 Guysborough_Marie Joseph Harbour_Barren Island_10.0_2020-05-27T00:00:00Z_2021-08-09T00:00:00Z,Marie Joseph Harbour,Barren Island,10.0,2020-05-27T00:00:00Z,2021-08-09T00:00:00Z
+Guysborough_Marie Joseph Harbour_Barren Island_2.0_2020-05-27T00:00:00Z_2021-08-09T00:00:00Z,Marie Joseph Harbour,Barren Island,2.0,2020-05-27T00:00:00Z,2021-08-09T00:00:00Z
+Guysborough_New Harbour_The Bull_28.0_2020-02-25T00:00:00Z_2020-10-20T00:00:00Z,New Harbour,The Bull,28.0,2020-02-25T00:00:00Z,2020-10-20T00:00:00Z
 Guysborough_New Harbour_The Bull_10.0_2020-02-25T00:00:00Z_2020-10-20T00:00:00Z,New Harbour,The Bull,10.0,2020-02-25T00:00:00Z,2020-10-20T00:00:00Z
+Guysborough_New Harbour_The Bull_15.0_2020-02-25T00:00:00Z_2020-10-20T00:00:00Z,New Harbour,The Bull,15.0,2020-02-25T00:00:00Z,2020-10-20T00:00:00Z
 Guysborough_Tor Bay_Center Bay_10.0_2020-02-25T00:00:00Z_2020-10-13T00:00:00Z,Tor Bay,Center Bay,10.0,2020-02-25T00:00:00Z,2020-10-13T00:00:00Z
+Guysborough_Tor Bay_Center Bay_2.0_2020-02-25T00:00:00Z_2020-10-13T00:00:00Z,Tor Bay,Center Bay,2.0,2020-02-25T00:00:00Z,2020-10-13T00:00:00Z
+Guysborough_Tor Bay_Center Bay_15.0_2020-02-25T00:00:00Z_2020-10-13T00:00:00Z,Tor Bay,Center Bay,15.0,2020-02-25T00:00:00Z,2020-10-13T00:00:00Z
+Guysborough_Tor Bay_Center Bay_20.0_2020-02-25T00:00:00Z_2020-10-13T00:00:00Z,Tor Bay,Center Bay,20.0,2020-02-25T00:00:00Z,2020-10-13T00:00:00Z
+Guysborough_Whitehead Harbour_Bald Rock_36.0_2020-02-25T00:00:00Z_2020-10-20T00:00:00Z,Whitehead Harbour,Bald Rock,36.0,2020-02-25T00:00:00Z,2020-10-20T00:00:00Z
 Guysborough_Whitehead Harbour_Bald Rock_20.0_2020-02-25T00:00:00Z_2020-10-20T00:00:00Z,Whitehead Harbour,Bald Rock,20.0,2020-02-25T00:00:00Z,2020-10-20T00:00:00Z
+Guysborough_Whitehead Harbour_Bald Rock_5.0_2020-02-25T00:00:00Z_2020-10-20T00:00:00Z,Whitehead Harbour,Bald Rock,5.0,2020-02-25T00:00:00Z,2020-10-20T00:00:00Z
+Guysborough_Whitehead Harbour_Bald Rock_2.0_2020-02-25T00:00:00Z_2020-10-20T00:00:00Z,Whitehead Harbour,Bald Rock,2.0,2020-02-25T00:00:00Z,2020-10-20T00:00:00Z
+Guysborough_Whitehead Harbour_Bald Rock_10.0_2020-02-25T00:00:00Z_2020-10-20T00:00:00Z,Whitehead Harbour,Bald Rock,10.0,2020-02-25T00:00:00Z,2020-10-20T00:00:00Z
 Guysborough_Whitehead Harbour_Burnt Island_1.0_2018-10-26T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,Burnt Island,1.0,2018-10-26T00:00:00Z,2021-09-08T00:00:00Z
 Guysborough_Whitehead Harbour_Northeast Branch_9.0_2019-04-18T00:00:00Z_2020-09-10T00:00:00Z,Whitehead Harbour,Northeast Branch,9.0,2019-04-18T00:00:00Z,2020-09-10T00:00:00Z
+Guysborough_Whitehead Harbour_Northeast Branch_3.0_2019-04-18T00:00:00Z_2020-09-10T00:00:00Z,Whitehead Harbour,Northeast Branch,3.0,2019-04-18T00:00:00Z,2020-09-10T00:00:00Z
+Guysborough_Whitehead Harbour_Northeast Branch_1.0_2019-04-18T00:00:00Z_2020-09-10T00:00:00Z,Whitehead Harbour,Northeast Branch,1.0,2019-04-18T00:00:00Z,2020-09-10T00:00:00Z
 Guysborough_Whitehead Harbour_Northwest Branch_1.0_2018-10-26T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,Northwest Branch,1.0,2018-10-26T00:00:00Z,2021-09-08T00:00:00Z
 Guysborough_Whitehead Harbour_The Basin_3.0_2019-04-18T00:00:00Z_2020-09-10T00:00:00Z,Whitehead Harbour,The Basin,3.0,2019-04-18T00:00:00Z,2020-09-10T00:00:00Z
+Guysborough_Whitehead Harbour_The Basin_1.0_2019-04-18T00:00:00Z_2020-09-10T00:00:00Z,Whitehead Harbour,The Basin,1.0,2019-04-18T00:00:00Z,2020-09-10T00:00:00Z
 Guysborough_Whitehead Harbour_The Channel_1.0_2018-10-26T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,The Channel,1.0,2018-10-26T00:00:00Z,2021-09-08T00:00:00Z
 Guysborough_Whitehead Harbour_White Island_1.0_2018-10-26T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,White Island,1.0,2018-10-26T00:00:00Z,2021-09-08T00:00:00Z
 Guysborough_Wine Harbour_Wine Harbour_7.0_2019-04-22T00:00:00Z_2020-09-10T00:00:00Z,Wine Harbour,Wine Harbour,7.0,2019-04-22T00:00:00Z,2020-09-10T00:00:00Z
+Guysborough_Wine Harbour_Wine Harbour_1.0_2019-04-22T00:00:00Z_2020-09-10T00:00:00Z,Wine Harbour,Wine Harbour,1.0,2019-04-22T00:00:00Z,2020-09-10T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_2.0_2020-05-20T00:00:00Z_2020-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,2.0,2020-05-20T00:00:00Z,2020-10-19T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_15.0_2020-05-20T00:00:00Z_2020-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,15.0,2020-05-20T00:00:00Z,2020-10-19T00:00:00Z
 Guysborough_New Harbour_The Bull_5.0_2020-02-25T00:00:00Z_2020-10-20T00:00:00Z,New Harbour,The Bull,5.0,2020-02-25T00:00:00Z,2020-10-20T00:00:00Z
@@ -188,17 +224,18 @@ Guysborough_Dover Bay_Seal Cove 1_5.0_2020-02-26T00:00:00Z_2020-10-20T00:00:00Z,
 Guysborough_Fishermans Harbour_Meal Rock_5.0_2020-05-20T00:00:00Z_2020-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,5.0,2020-05-20T00:00:00Z,2020-10-19T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_5.0_2020-05-21T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Rook Island 1,5.0,2020-05-21T00:00:00Z,2020-10-21T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_10.0_2020-05-20T00:00:00Z_2020-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,10.0,2020-05-20T00:00:00Z,2020-10-19T00:00:00Z
-Guysborough_Chedabucto Bay_Moose Point 1_25.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Moose Point 1,25.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
 Guysborough_Whitehead Harbour_Fishermans Island_30.0_2020-09-10T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,Fishermans Island,30.0,2020-09-10T00:00:00Z,2021-09-08T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_20.0_2020-09-10T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,Fishermans Island,20.0,2020-09-10T00:00:00Z,2021-09-08T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_40.0_2020-09-10T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,Fishermans Island,40.0,2020-09-10T00:00:00Z,2021-09-08T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_10.0_2020-09-10T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,Fishermans Island,10.0,2020-09-10T00:00:00Z,2021-09-08T00:00:00Z
 Guysborough_Whitehead Harbour_Fishermans Island_5.0_2020-09-10T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,Fishermans Island,5.0,2020-09-10T00:00:00Z,2021-09-08T00:00:00Z
 Guysborough_Whitehead Harbour_Northeast Branch_1.0_2020-09-10T00:00:00Z_2021-09-09T00:00:00Z,Whitehead Harbour,Northeast Branch,1.0,2020-09-10T00:00:00Z,2021-09-09T00:00:00Z
 Guysborough_Whitehead Harbour_Northeast Branch_5.0_2020-09-10T00:00:00Z_2021-09-09T00:00:00Z,Whitehead Harbour,Northeast Branch,5.0,2020-09-10T00:00:00Z,2021-09-09T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_44.0_2020-09-10T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,Fishermans Island,44.0,2020-09-10T00:00:00Z,2021-09-08T00:00:00Z
 Guysborough_Whitehead Harbour_Northeast Branch_10.0_2020-09-10T00:00:00Z_2021-09-09T00:00:00Z,Whitehead Harbour,Northeast Branch,10.0,2020-09-10T00:00:00Z,2021-09-09T00:00:00Z
 Guysborough_Whitehead Harbour_The Basin_2.0_2020-09-10T00:00:00Z_2021-09-08T00:00:00Z,Whitehead Harbour,The Basin,2.0,2020-09-10T00:00:00Z,2021-09-08T00:00:00Z
 Guysborough_Wine Harbour_Wine Harbour_1.0_2020-09-10T00:00:00Z_2021-09-09T00:00:00Z,Wine Harbour,Wine Harbour,1.0,2020-09-10T00:00:00Z,2021-09-09T00:00:00Z
 Guysborough_Wine Harbour_Wine Harbour_7.0_2020-09-10T00:00:00Z_2021-09-09T00:00:00Z,Wine Harbour,Wine Harbour,7.0,2020-09-10T00:00:00Z,2021-09-09T00:00:00Z
-Guysborough_Marie Joseph Harbour_Barren Island_15.0_2020-05-27T00:00:00Z_2021-08-09T00:00:00Z,Marie Joseph Harbour,Barren Island,15.0,2020-05-27T00:00:00Z,2021-08-09T00:00:00Z
-Guysborough_Tor Bay_Center Bay_20.0_2020-02-25T00:00:00Z_2020-10-13T00:00:00Z,Tor Bay,Center Bay,20.0,2020-02-25T00:00:00Z,2020-10-13T00:00:00Z
 Guysborough_Tor Bay_Center Bay_20.0_2020-10-13T00:00:00Z_2021-09-14T00:00:00Z,Tor Bay,Center Bay,20.0,2020-10-13T00:00:00Z,2021-09-14T00:00:00Z
 Guysborough_Tor Bay_Center Bay_2.0_2020-10-13T00:00:00Z_2021-09-14T00:00:00Z,Tor Bay,Center Bay,2.0,2020-10-13T00:00:00Z,2021-09-14T00:00:00Z
 Guysborough_Tor Bay_Center Bay_5.0_2020-10-13T00:00:00Z_2021-09-14T00:00:00Z,Tor Bay,Center Bay,5.0,2020-10-13T00:00:00Z,2021-09-14T00:00:00Z
@@ -209,9 +246,11 @@ Guysborough_Fishermans Harbour_Meal Rock_10.0_2020-10-19T00:00:00Z_2021-09-14T00
 Guysborough_Fishermans Harbour_Meal Rock_5.0_2020-10-19T00:00:00Z_2021-09-14T00:00:00Z,Fishermans Harbour,Meal Rock,5.0,2020-10-19T00:00:00Z,2021-09-14T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_15.0_2020-10-19T00:00:00Z_2021-09-14T00:00:00Z,Fishermans Harbour,Meal Rock,15.0,2020-10-19T00:00:00Z,2021-09-14T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_2.0_2020-10-19T00:00:00Z_2021-09-14T00:00:00Z,Fishermans Harbour,Meal Rock,2.0,2020-10-19T00:00:00Z,2021-09-14T00:00:00Z
-Guysborough_Whitehead Harbour_Bald Rock_36.0_2020-02-25T00:00:00Z_2020-10-20T00:00:00Z,Whitehead Harbour,Bald Rock,36.0,2020-02-25T00:00:00Z,2020-10-20T00:00:00Z
 Guysborough_Whitehead Harbour_Bald Rock_2.0_2020-10-20T00:00:00Z_2022-03-10T00:00:00Z,Whitehead Harbour,Bald Rock,2.0,2020-10-20T00:00:00Z,2022-03-10T00:00:00Z
-Guysborough_Dover Bay_Seal Cove 1_20.0_2020-02-26T00:00:00Z_2020-10-20T00:00:00Z,Dover Bay,Seal Cove 1,20.0,2020-02-26T00:00:00Z,2020-10-20T00:00:00Z
+Guysborough_Whitehead Harbour_Bald Rock_10.0_2020-10-20T00:00:00Z_2022-03-10T00:00:00Z,Whitehead Harbour,Bald Rock,10.0,2020-10-20T00:00:00Z,2022-03-10T00:00:00Z
+Guysborough_Whitehead Harbour_Bald Rock_20.0_2020-10-20T00:00:00Z_2022-03-10T00:00:00Z,Whitehead Harbour,Bald Rock,20.0,2020-10-20T00:00:00Z,2022-03-10T00:00:00Z
+Guysborough_Whitehead Harbour_Bald Rock_36.0_2020-10-20T00:00:00Z_2022-03-10T00:00:00Z,Whitehead Harbour,Bald Rock,36.0,2020-10-20T00:00:00Z,2022-03-10T00:00:00Z
+Guysborough_Dover Bay_Seal Cove 1_24.0_2020-10-20T00:00:00Z_2021-09-15T00:00:00Z,Dover Bay,Seal Cove 1,24.0,2020-10-20T00:00:00Z,2021-09-15T00:00:00Z
 Guysborough_Dover Bay_Seal Cove 1_5.0_2020-10-20T00:00:00Z_2021-09-15T00:00:00Z,Dover Bay,Seal Cove 1,5.0,2020-10-20T00:00:00Z,2021-09-15T00:00:00Z
 Guysborough_Dover Bay_Seal Cove 1_15.0_2020-10-20T00:00:00Z_2021-09-15T00:00:00Z,Dover Bay,Seal Cove 1,15.0,2020-10-20T00:00:00Z,2021-09-15T00:00:00Z
 Guysborough_Dover Bay_Seal Cove 1_2.0_2020-10-20T00:00:00Z_2021-09-15T00:00:00Z,Dover Bay,Seal Cove 1,2.0,2020-10-20T00:00:00Z,2021-09-15T00:00:00Z
@@ -221,7 +260,6 @@ Guysborough_Dover Bay_Madeline Point 1_5.0_2020-10-20T00:00:00Z_2021-09-14T00:00
 Guysborough_Dover Bay_Madeline Point 1_2.0_2020-10-20T00:00:00Z_2021-09-14T00:00:00Z,Dover Bay,Madeline Point 1,2.0,2020-10-20T00:00:00Z,2021-09-14T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_10.0_2020-10-20T00:00:00Z_2021-09-14T00:00:00Z,Dover Bay,Madeline Point 1,10.0,2020-10-20T00:00:00Z,2021-09-14T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_15.0_2020-10-20T00:00:00Z_2021-09-14T00:00:00Z,Dover Bay,Madeline Point 1,15.0,2020-10-20T00:00:00Z,2021-09-14T00:00:00Z
-Guysborough_Chedabucto Bay_Tickle Island 1_75.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Tickle Island 1,75.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_60.0_2020-10-21T00:00:00Z_2021-08-25T00:00:00Z,Chedabucto Bay,Tickle Island 1,60.0,2020-10-21T00:00:00Z,2021-08-25T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_30.0_2020-10-21T00:00:00Z_2021-08-25T00:00:00Z,Chedabucto Bay,Tickle Island 1,30.0,2020-10-21T00:00:00Z,2021-08-25T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_40.0_2020-10-21T00:00:00Z_2021-08-25T00:00:00Z,Chedabucto Bay,Tickle Island 1,40.0,2020-10-21T00:00:00Z,2021-08-25T00:00:00Z
@@ -232,7 +270,6 @@ Guysborough_Chedabucto Bay_Tickle Island 1_50.0_2020-10-21T00:00:00Z_2021-08-25T
 Guysborough_Chedabucto Bay_Tickle Island 1_20.0_2020-10-21T00:00:00Z_2021-08-25T00:00:00Z,Chedabucto Bay,Tickle Island 1,20.0,2020-10-21T00:00:00Z,2021-08-25T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_10.0_2020-10-21T00:00:00Z_2021-08-25T00:00:00Z,Chedabucto Bay,Tickle Island 1,10.0,2020-10-21T00:00:00Z,2021-08-25T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_75.0_2020-10-21T00:00:00Z_2021-08-25T00:00:00Z,Chedabucto Bay,Tickle Island 1,75.0,2020-10-21T00:00:00Z,2021-08-25T00:00:00Z
-Guysborough_Chedabucto Bay_Dorts Cove 1_26.0_2020-02-24T00:00:00Z_2020-10-21T00:00:00Z,Chedabucto Bay,Dorts Cove 1,26.0,2020-02-24T00:00:00Z,2020-10-21T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_25.0_2020-10-21T00:00:00Z_2021-08-24T00:00:00Z,Chedabucto Bay,Rook Island 1,25.0,2020-10-21T00:00:00Z,2021-08-24T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_2.0_2020-10-21T00:00:00Z_2021-08-24T00:00:00Z,Chedabucto Bay,Rook Island 1,2.0,2020-10-21T00:00:00Z,2021-08-24T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_5.0_2020-10-21T00:00:00Z_2021-08-24T00:00:00Z,Chedabucto Bay,Rook Island 1,5.0,2020-10-21T00:00:00Z,2021-08-24T00:00:00Z
@@ -251,59 +288,88 @@ Guysborough_Chedabucto Bay_Moose Point 1_5.0_2020-10-21T00:00:00Z_2021-08-24T00:
 Guysborough_Chedabucto Bay_Moose Point 1_10.0_2020-10-21T00:00:00Z_2021-08-24T00:00:00Z,Chedabucto Bay,Moose Point 1,10.0,2020-10-21T00:00:00Z,2021-08-24T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_15.0_2020-10-21T00:00:00Z_2021-08-24T00:00:00Z,Chedabucto Bay,Moose Point 1,15.0,2020-10-21T00:00:00Z,2021-08-24T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_2.0_2020-10-21T00:00:00Z_2021-08-24T00:00:00Z,Chedabucto Bay,Moose Point 1,2.0,2020-10-21T00:00:00Z,2021-08-24T00:00:00Z
-Guysborough_Dover Bay_Seal Cove 1_24.0_2020-10-20T00:00:00Z_2021-09-15T00:00:00Z,Dover Bay,Seal Cove 1,24.0,2020-10-20T00:00:00Z,2021-09-15T00:00:00Z
 Guysborough_Marie Joseph Harbour_Barren Island_15.0_2021-08-09T00:00:00Z_2022-08-17T00:00:00Z,Marie Joseph Harbour,Barren Island,15.0,2021-08-09T00:00:00Z,2022-08-17T00:00:00Z
 Guysborough_Marie Joseph Harbour_Barren Island_5.0_2021-08-09T00:00:00Z_2022-08-17T00:00:00Z,Marie Joseph Harbour,Barren Island,5.0,2021-08-09T00:00:00Z,2022-08-17T00:00:00Z
 Guysborough_Marie Joseph Harbour_Barren Island_10.0_2021-08-09T00:00:00Z_2022-08-17T00:00:00Z,Marie Joseph Harbour,Barren Island,10.0,2021-08-09T00:00:00Z,2022-08-17T00:00:00Z
+Guysborough_Marie Joseph Harbour_Barren Island_2.0_2021-08-09T00:00:00Z_2022-08-17T00:00:00Z,Marie Joseph Harbour,Barren Island,2.0,2021-08-09T00:00:00Z,2022-08-17T00:00:00Z
+Guysborough_Chedabucto Bay_Rook Island 1_25.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Rook Island 1,25.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_20.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Rook Island 1,20.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Rook Island 1_10.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Rook Island 1,10.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Rook Island 1_2.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Rook Island 1,2.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Rook Island 1_15.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Rook Island 1,15.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_5.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Rook Island 1,5.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Chedabucto Bay_Dorts Cove 1_20.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Dorts Cove 1,20.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_2.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Dorts Cove 1,2.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_15.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Dorts Cove 1,15.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_10.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Dorts Cove 1,10.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_26.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Dorts Cove 1,26.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_20.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Moose Point 1,20.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_5.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Moose Point 1,5.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_10.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Moose Point 1,10.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_2.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Moose Point 1,2.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_15.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Moose Point 1,15.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_27.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Moose Point 1,27.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_60.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,60.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_5.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,5.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_50.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,50.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_2.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,2.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_40.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,40.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_10.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,10.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_15.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,15.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_20.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,20.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_30.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,30.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
+Guysborough_Chedabucto Bay_Tickle Island 1_75.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,75.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Whitehead Harbour_Northeast Branch_10.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Northeast Branch,10.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
+Guysborough_Whitehead Harbour_Northeast Branch_1.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Northeast Branch,1.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_White Island_1.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,White Island,1.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_Northeast Branch_5.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Northeast Branch,5.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_Burnt Island_1.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Burnt Island,1.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_Northwest Branch_1.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Northwest Branch,1.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_Fishermans Island_10.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Fishermans Island,10.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_30.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Fishermans Island,30.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_40.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Fishermans Island,40.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_20.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Fishermans Island,20.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_Yankee Cove_1.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Yankee Cove,1.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_Fishermans Island_5.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Fishermans Island,5.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_2.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Fishermans Island,2.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_44.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Fishermans Island,44.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_The Channel_1.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,The Channel,1.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_Harbour Island_1.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Harbour Island,1.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_The Basin_2.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,The Basin,2.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Wine Harbour_Wine Harbour_1.0_2021-09-09T00:00:00Z_2022-11-04T00:00:00Z,Wine Harbour,Wine Harbour,1.0,2021-09-09T00:00:00Z,2022-11-04T00:00:00Z
 Guysborough_Wine Harbour_Wine Harbour_7.0_2021-09-09T00:00:00Z_2022-11-04T00:00:00Z,Wine Harbour,Wine Harbour,7.0,2021-09-09T00:00:00Z,2022-11-04T00:00:00Z
+Guysborough_Fishermans Harbour_Meal Rock_20.0_2021-09-14T00:00:00Z_2022-05-15T00:00:00Z,Fishermans Harbour,Meal Rock,20.0,2021-09-14T00:00:00Z,2022-05-15T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_5.0_2021-09-14T00:00:00Z_2022-05-15T00:00:00Z,Fishermans Harbour,Meal Rock,5.0,2021-09-14T00:00:00Z,2022-05-15T00:00:00Z
-Guysborough_Fishermans Harbour_Meal Rock_2.0_2021-09-14T00:00:00Z_2022-05-15T00:00:00Z,Fishermans Harbour,Meal Rock,2.0,2021-09-14T00:00:00Z,2022-05-15T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_15.0_2021-09-14T00:00:00Z_2022-05-15T00:00:00Z,Fishermans Harbour,Meal Rock,15.0,2021-09-14T00:00:00Z,2022-05-15T00:00:00Z
+Guysborough_Fishermans Harbour_Meal Rock_2.0_2021-09-14T00:00:00Z_2022-05-15T00:00:00Z,Fishermans Harbour,Meal Rock,2.0,2021-09-14T00:00:00Z,2022-05-15T00:00:00Z
 Guysborough_Tor Bay_Center Bay_5.0_2021-09-14T00:00:00Z_2022-07-29T00:00:00Z,Tor Bay,Center Bay,5.0,2021-09-14T00:00:00Z,2022-07-29T00:00:00Z
 Guysborough_Tor Bay_Center Bay_15.0_2021-09-14T00:00:00Z_2022-07-29T00:00:00Z,Tor Bay,Center Bay,15.0,2021-09-14T00:00:00Z,2022-07-29T00:00:00Z
+Guysborough_Tor Bay_Center Bay_2.0_2021-09-14T00:00:00Z_2022-07-29T00:00:00Z,Tor Bay,Center Bay,2.0,2021-09-14T00:00:00Z,2022-07-29T00:00:00Z
+Guysborough_Tor Bay_Center Bay_10.0_2021-09-14T00:00:00Z_2022-07-29T00:00:00Z,Tor Bay,Center Bay,10.0,2021-09-14T00:00:00Z,2022-07-29T00:00:00Z
+Guysborough_Tor Bay_Center Bay_20.0_2021-09-14T00:00:00Z_2022-07-29T00:00:00Z,Tor Bay,Center Bay,20.0,2021-09-14T00:00:00Z,2022-07-29T00:00:00Z
+Guysborough_Dover Bay_Seal Cove 1_24.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Seal Cove 1,24.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
 Guysborough_Dover Bay_Seal Cove 1_5.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Seal Cove 1,5.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
 Guysborough_Dover Bay_Seal Cove 1_10.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Seal Cove 1,10.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
+Guysborough_Dover Bay_Seal Cove 1_2.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Seal Cove 1,2.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
+Guysborough_Dover Bay_Seal Cove 1_15.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Seal Cove 1,15.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_2.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Madeline Point 1,2.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
+Guysborough_Dover Bay_Madeline Point 1_10.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Madeline Point 1,10.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
+Guysborough_Dover Bay_Madeline Point 1_15.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Madeline Point 1,15.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_5.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Madeline Point 1,5.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
-Guysborough_Whitehead Harbour_Fishermans Island_2.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Fishermans Island,2.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_22.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Madeline Point 1,22.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
-Guysborough_Chedabucto Bay_Rook Island 1_25.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Rook Island 1,25.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
-Guysborough_Chedabucto Bay_Tickle Island 1_75.0_2021-08-25T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Tickle Island 1,75.0,2021-08-25T00:00:00Z,2022-07-27T00:00:00Z
-Guysborough_Whitehead Harbour_Bald Rock_36.0_2020-10-20T00:00:00Z_2022-03-10T00:00:00Z,Whitehead Harbour,Bald Rock,36.0,2020-10-20T00:00:00Z,2022-03-10T00:00:00Z
 Guysborough_New Harbour_Black Rocks_6.0_2022-07-15T00:00:00Z_2023-10-18T00:00:00Z,New Harbour,Black Rocks,6.0,2022-07-15T00:00:00Z,2023-10-18T00:00:00Z
 Guysborough_New Harbour_The Bull_10.0_2022-07-15T00:00:00Z_2023-10-18T00:00:00Z,New Harbour,The Bull,10.0,2022-07-15T00:00:00Z,2023-10-18T00:00:00Z
 Guysborough_New Harbour_The Bull_15.0_2022-07-15T00:00:00Z_2023-10-18T00:00:00Z,New Harbour,The Bull,15.0,2022-07-15T00:00:00Z,2023-10-18T00:00:00Z
 Guysborough_New Harbour_The Bull_5.0_2022-07-15T00:00:00Z_2023-10-18T00:00:00Z,New Harbour,The Bull,5.0,2022-07-15T00:00:00Z,2023-10-18T00:00:00Z
 Guysborough_New Harbour_The Bull_28.0_2022-07-15T00:00:00Z_2023-10-18T00:00:00Z,New Harbour,The Bull,28.0,2022-07-15T00:00:00Z,2023-10-18T00:00:00Z
 Guysborough_Fishermans Harbour_Bull Rock_7.0_2022-07-15T00:00:00Z_2023-10-18T00:00:00Z,Fishermans Harbour,Bull Rock,7.0,2022-07-15T00:00:00Z,2023-10-18T00:00:00Z
-Guysborough_Chedabucto Bay_Dorts Cove 1_26.0_2021-08-24T00:00:00Z_2022-07-27T00:00:00Z,Chedabucto Bay,Dorts Cove 1,26.0,2021-08-24T00:00:00Z,2022-07-27T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_20.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Moose Point 1,20.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_5.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Moose Point 1,5.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_15.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Moose Point 1,15.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_2.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Moose Point 1,2.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_10.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Moose Point 1,10.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_27.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Moose Point 1,27.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_26.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Dorts Cove 1,26.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
 Guysborough_Chedabucto Bay_Dorts Cove 1_20.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Dorts Cove 1,20.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
 Guysborough_Chedabucto Bay_Dorts Cove 1_15.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Dorts Cove 1,15.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
 Guysborough_Chedabucto Bay_Dorts Cove 1_5.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Dorts Cove 1,5.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
@@ -325,7 +391,6 @@ Guysborough_Chedabucto Bay_Tickle Island 1_40.0_2022-07-27T00:00:00Z_2023-07-05T
 Guysborough_Chedabucto Bay_Tickle Island 1_10.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Tickle Island 1,10.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_20.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Tickle Island 1,20.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
 Guysborough_Chedabucto Bay_Tickle Island 1_75.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Tickle Island 1,75.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
-Guysborough_Dover Bay_Seal Cove 1_24.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Dover Bay,Seal Cove 1,24.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_15.0_2022-07-28T00:00:00Z_2023-10-18T00:00:00Z,Dover Bay,Madeline Point 1,15.0,2022-07-28T00:00:00Z,2023-10-18T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_5.0_2022-07-28T00:00:00Z_2023-10-18T00:00:00Z,Dover Bay,Madeline Point 1,5.0,2022-07-28T00:00:00Z,2023-10-18T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_2.0_2022-07-28T00:00:00Z_2023-10-18T00:00:00Z,Dover Bay,Madeline Point 1,2.0,2022-07-28T00:00:00Z,2023-10-18T00:00:00Z
@@ -340,7 +405,6 @@ Guysborough_Marie Joseph Harbour_Barren Island_10.0_2022-08-16T00:00:00Z_2023-10
 Guysborough_Marie Joseph Harbour_Barren Island_2.0_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Marie Joseph Harbour,Barren Island,2.0,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
 Guysborough_Marie Joseph Harbour_Barren Island_5.0_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Marie Joseph Harbour,Barren Island,5.0,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
 Guysborough_Marie Joseph Harbour_Barren Island_15.0_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Marie Joseph Harbour,Barren Island,15.0,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
-Guysborough_Whitehead Harbour_Fishermans Island_44.0_2021-09-08T00:00:00Z_2022-09-12T00:00:00Z,Whitehead Harbour,Fishermans Island,44.0,2021-09-08T00:00:00Z,2022-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_The Basin N_1.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,The Basin N,1.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
 Guysborough_Whitehead Harbour_Harbour Island_1.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Harbour Island,1.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
 Guysborough_Whitehead Harbour_The Basin_2.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,The Basin,2.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
@@ -348,38 +412,69 @@ Guysborough_Whitehead Harbour_Burnt Island_1.0_2022-09-12T00:00:00Z_2023-11-14T0
 Guysborough_Whitehead Harbour_The Channel_1.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,The Channel,1.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
 Guysborough_Whitehead Harbour_Northeast Branch_5.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Northeast Branch,5.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
 Guysborough_Whitehead Harbour_Northeast Branch_10.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Northeast Branch,10.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
+Guysborough_Whitehead Harbour_Northeast Branch_1.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Northeast Branch,1.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
 Guysborough_Whitehead Harbour_Northwest Branch_1.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Northwest Branch,1.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
 Guysborough_Whitehead Harbour_Fishermans Island_40.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Fishermans Island,40.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_20.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Fishermans Island,20.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_30.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Fishermans Island,30.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_10.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Fishermans Island,10.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
 Guysborough_Whitehead Harbour_Fishermans Island_5.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Fishermans Island,5.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
 Guysborough_Whitehead Harbour_Fishermans Island_2.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Fishermans Island,2.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
+Guysborough_Whitehead Harbour_Fishermans Island_44.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Fishermans Island,44.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_2.0_2022-10-31T00:00:00Z_2023-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,2.0,2022-10-31T00:00:00Z,2023-10-19T00:00:00Z
+Guysborough_Fishermans Harbour_Meal Rock_15.0_2022-10-31T00:00:00Z_2023-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,15.0,2022-10-31T00:00:00Z,2023-10-19T00:00:00Z
+Guysborough_Fishermans Harbour_Meal Rock_10.0_2022-10-31T00:00:00Z_2023-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,10.0,2022-10-31T00:00:00Z,2023-10-19T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_5.0_2022-10-31T00:00:00Z_2023-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,5.0,2022-10-31T00:00:00Z,2023-10-19T00:00:00Z
+Guysborough_Fishermans Harbour_Meal Rock_20.0_2022-10-31T00:00:00Z_2023-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,20.0,2022-10-31T00:00:00Z,2023-10-19T00:00:00Z
 Guysborough_Wine Harbour_Wine Harbour_7.0_2022-11-04T00:00:00Z_2023-05-31T00:00:00Z,Wine Harbour,Wine Harbour,7.0,2022-11-04T00:00:00Z,2023-05-31T00:00:00Z
-Guysborough_Chedabucto Bay_Dorts Cove 1_26.0_2022-07-27T00:00:00Z_2023-07-05T00:00:00Z,Chedabucto Bay,Dorts Cove 1,26.0,2022-07-27T00:00:00Z,2023-07-05T00:00:00Z
+Guysborough_Wine Harbour_Wine Harbour_1.0_2022-11-04T00:00:00Z_2023-05-31T00:00:00Z,Wine Harbour,Wine Harbour,1.0,2022-11-04T00:00:00Z,2023-05-31T00:00:00Z
+Guysborough_Chedabucto Bay_Rook Island 1_25.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Rook Island 1,25.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_10.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Rook Island 1,10.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
+Guysborough_Chedabucto Bay_Rook Island 1_15.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Rook Island 1,15.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
+Guysborough_Chedabucto Bay_Rook Island 1_20.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Rook Island 1,20.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
+Guysborough_Chedabucto Bay_Rook Island 1_2.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Rook Island 1,2.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_5.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Rook Island 1,5.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
 Guysborough_Chedabucto Bay_Dorts Cove 1_5.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Dorts Cove 1,5.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
 Guysborough_Chedabucto Bay_Dorts Cove 1_2.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Dorts Cove 1,2.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_20.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Dorts Cove 1,20.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_10.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Dorts Cove 1,10.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_15.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Dorts Cove 1,15.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
+Guysborough_Chedabucto Bay_Dorts Cove 1_26.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Dorts Cove 1,26.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_5.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Moose Point 1,5.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_10.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Moose Point 1,10.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
-Guysborough_Whitehead Harbour_Fishermans Island_44.0_2022-09-12T00:00:00Z_2023-11-14T00:00:00Z,Whitehead Harbour,Fishermans Island,44.0,2022-09-12T00:00:00Z,2023-11-14T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_2.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Moose Point 1,2.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_20.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Moose Point 1,20.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_15.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Moose Point 1,15.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
+Guysborough_Chedabucto Bay_Moose Point 1_27.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Moose Point 1,27.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
 Guysborough_Tor Bay_Center Bay_10.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Tor Bay,Center Bay,10.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_Tor Bay_Center Bay_15.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Tor Bay,Center Bay,15.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_Tor Bay_Center Bay_2.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Tor Bay,Center Bay,2.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_Tor Bay_Center Bay_20.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Tor Bay,Center Bay,20.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
 Guysborough_Tor Bay_Center Bay_5.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Tor Bay,Center Bay,5.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
 Guysborough_New Harbour_The Bull_2.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,New Harbour,The Bull,2.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_New Harbour_The Bull_10.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,New Harbour,The Bull,10.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_New Harbour_The Bull_15.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,New Harbour,The Bull,15.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
 Guysborough_New Harbour_The Bull_5.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,New Harbour,The Bull,5.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_Dover Bay_Madeline Point 1_22.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Madeline Point 1,22.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_2.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Madeline Point 1,2.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_Dover Bay_Madeline Point 1_10.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Madeline Point 1,10.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_Dover Bay_Madeline Point 1_15.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Madeline Point 1,15.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_New Harbour_The Bull_28.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,New Harbour,The Bull,28.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
 Guysborough_Dover Bay_Madeline Point 1_5.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Madeline Point 1,5.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_Dover Bay_Seal Cove 1_24.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Seal Cove 1,24.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
 Guysborough_Dover Bay_Seal Cove 1_10.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Seal Cove 1,10.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_Dover Bay_Seal Cove 1_15.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Seal Cove 1,15.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
+Guysborough_Dover Bay_Seal Cove 1_2.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Seal Cove 1,2.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
 Guysborough_Dover Bay_Seal Cove 1_5.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Seal Cove 1,5.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
-Guysborough_Fishermans Harbour_Meal Rock_20.0_2022-10-31T00:00:00Z_2023-10-19T00:00:00Z,Fishermans Harbour,Meal Rock,20.0,2022-10-31T00:00:00Z,2023-10-19T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_20.0_2023-10-19T00:00:00Z_2024-09-12T00:00:00Z,Fishermans Harbour,Meal Rock,20.0,2023-10-19T00:00:00Z,2024-09-12T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_2.0_2023-10-19T00:00:00Z_2024-09-12T00:00:00Z,Fishermans Harbour,Meal Rock,2.0,2023-10-19T00:00:00Z,2024-09-12T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_10.0_2023-10-19T00:00:00Z_2024-09-12T00:00:00Z,Fishermans Harbour,Meal Rock,10.0,2023-10-19T00:00:00Z,2024-09-12T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_15.0_2023-10-19T00:00:00Z_2024-09-12T00:00:00Z,Fishermans Harbour,Meal Rock,15.0,2023-10-19T00:00:00Z,2024-09-12T00:00:00Z
 Guysborough_Fishermans Harbour_Meal Rock_5.0_2023-10-19T00:00:00Z_2024-09-12T00:00:00Z,Fishermans Harbour,Meal Rock,5.0,2023-10-19T00:00:00Z,2024-09-12T00:00:00Z
-Guysborough_Marie Joseph Harbour_Barren Island_2.0_2023-10-27T00:00:00Z_2024-09-12T00:00:00Z,Marie Joseph Harbour,Barren Island,2.0,2023-10-27T00:00:00Z,2024-09-12T00:00:00Z
-Guysborough_Marie Joseph Harbour_Barren Island_5.0_2023-10-27T00:00:00Z_2024-09-12T00:00:00Z,Marie Joseph Harbour,Barren Island,5.0,2023-10-27T00:00:00Z,2024-09-12T00:00:00Z
 Guysborough_Marie Joseph Harbour_Barren Island_15.0_2023-10-27T00:00:00Z_2024-09-12T00:00:00Z,Marie Joseph Harbour,Barren Island,15.0,2023-10-27T00:00:00Z,2024-09-12T00:00:00Z
+Guysborough_Marie Joseph Harbour_Barren Island_2.0_2023-10-27T00:00:00Z_2024-09-12T00:00:00Z,Marie Joseph Harbour,Barren Island,2.0,2023-10-27T00:00:00Z,2024-09-12T00:00:00Z
+Guysborough_Marie Joseph Harbour_Barren Island_10.0_2023-10-27T00:00:00Z_2024-09-12T00:00:00Z,Marie Joseph Harbour,Barren Island,10.0,2023-10-27T00:00:00Z,2024-09-12T00:00:00Z
+Guysborough_Marie Joseph Harbour_Barren Island_5.0_2023-10-27T00:00:00Z_2024-09-12T00:00:00Z,Marie Joseph Harbour,Barren Island,5.0,2023-10-27T00:00:00Z,2024-09-12T00:00:00Z
 Guysborough_Whitehead Harbour_Northwest Branch_1.0_2023-11-14T00:00:00Z_2024-11-04T00:00:00Z,Whitehead Harbour,Northwest Branch,1.0,2023-11-14T00:00:00Z,2024-11-04T00:00:00Z
 Guysborough_Whitehead Harbour_Northeast Branch_5.0_2023-11-14T00:00:00Z_2024-11-04T00:00:00Z,Whitehead Harbour,Northeast Branch,5.0,2023-11-14T00:00:00Z,2024-11-04T00:00:00Z
 Guysborough_Whitehead Harbour_Northeast Branch_1.0_2023-11-14T00:00:00Z_2024-11-04T00:00:00Z,Whitehead Harbour,Northeast Branch,1.0,2023-11-14T00:00:00Z,2024-11-04T00:00:00Z
@@ -397,14 +492,11 @@ Guysborough_Whitehead Harbour_The Basin N_1.0_2023-11-14T00:00:00Z_2024-11-04T00
 Guysborough_Whitehead Harbour_Harbour Island_1.0_2023-11-14T00:00:00Z_2024-11-04T00:00:00Z,Whitehead Harbour,Harbour Island,1.0,2023-11-14T00:00:00Z,2024-11-04T00:00:00Z
 Guysborough_Whitehead Harbour_Fishermans Island_44.0_2023-11-14T00:00:00Z_2024-11-04T00:00:00Z,Whitehead Harbour,Fishermans Island,44.0,2023-11-14T00:00:00Z,2024-11-04T00:00:00Z
 Guysborough_Whitehead Harbour_Yankee Cove_1.0_2023-11-14T00:00:00Z_2024-11-04T00:00:00Z,Whitehead Harbour,Yankee Cove,1.0,2023-11-14T00:00:00Z,2024-11-04T00:00:00Z
-Guysborough_Dover Bay_Seal Cove 1_24.0_2023-10-18T00:00:00Z_2024-11-07T00:00:00Z,Dover Bay,Seal Cove 1,24.0,2023-10-18T00:00:00Z,2024-11-07T00:00:00Z
-Guysborough_Chedabucto Bay_Rook Island 1_25.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Rook Island 1,25.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_10.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Rook Island 1,10.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_2.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Rook Island 1,2.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_5.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Rook Island 1,5.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_15.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Rook Island 1,15.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_20.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Rook Island 1,20.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
-Guysborough_Chedabucto Bay_Moose Point 1_27.0_2023-07-05T00:00:00Z_2024-07-03T00:00:00Z,Chedabucto Bay,Moose Point 1,27.0,2023-07-05T00:00:00Z,2024-07-03T00:00:00Z
 Guysborough_Chedabucto Bay_Dorts Cove 1_26.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Dorts Cove 1,26.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Guysborough_Chedabucto Bay_Rook Island 1_25.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Rook Island 1,25.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Guysborough_Chedabucto Bay_Dorts Cove 1_10.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Dorts Cove 1,10.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
@@ -418,19 +510,23 @@ Guysborough_Chedabucto Bay_Moose Point 1_20.0_2024-07-03T00:00:00Z_2024-10-17T00
 Guysborough_Chedabucto Bay_Moose Point 1_10.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Moose Point 1,10.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_5.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Moose Point 1,5.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Guysborough_Chedabucto Bay_Moose Point 1_15.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Chedabucto Bay,Moose Point 1,15.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
+Halifax_Beaver Harbour_Beaver Point_15.0_2019-10-20T00:00:00Z_2020-12-12T00:00:00Z,Beaver Harbour,Beaver Point,15.0,2019-10-20T00:00:00Z,2020-12-12T00:00:00Z
 Halifax_Beaver Harbour_Beaver Point_2.0_2019-10-20T00:00:00Z_2020-12-12T00:00:00Z,Beaver Harbour,Beaver Point,2.0,2019-10-20T00:00:00Z,2020-12-12T00:00:00Z
+Halifax_Beaver Harbour_Beaver Point_10.0_2019-10-20T00:00:00Z_2020-12-12T00:00:00Z,Beaver Harbour,Beaver Point,10.0,2019-10-20T00:00:00Z,2020-12-12T00:00:00Z
+Halifax_Spry Bay_Spry Harbour_15.0_2019-10-19T00:00:00Z_2020-10-27T00:00:00Z,Spry Bay,Spry Harbour,15.0,2019-10-19T00:00:00Z,2020-10-27T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_2.0_2019-10-19T00:00:00Z_2020-10-27T00:00:00Z,Spry Bay,Spry Harbour,2.0,2019-10-19T00:00:00Z,2020-10-27T00:00:00Z
+Halifax_Spry Bay_Spry Harbour_10.0_2019-10-19T00:00:00Z_2020-10-27T00:00:00Z,Spry Bay,Spry Harbour,10.0,2019-10-19T00:00:00Z,2020-10-27T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_10.0_2019-12-01T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Shut-In Island,10.0,2019-12-01T00:00:00Z,2020-11-08T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_15.0_2019-12-01T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Shut-In Island,15.0,2019-12-01T00:00:00Z,2020-11-08T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_20.0_2019-12-01T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2019-12-01T00:00:00Z,2020-11-08T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_5.0_2019-12-01T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Shut-In Island,5.0,2019-12-01T00:00:00Z,2020-11-08T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_5.0_2019-10-19T00:00:00Z_2020-10-27T00:00:00Z,Spry Bay,Spry Harbour,5.0,2019-10-19T00:00:00Z,2020-10-27T00:00:00Z
 Halifax_Beaver Harbour_Beaver Point_5.0_2019-10-20T00:00:00Z_2020-12-12T00:00:00Z,Beaver Harbour,Beaver Point,5.0,2019-10-20T00:00:00Z,2020-12-12T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_2.0_2019-12-01T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Shut-In Island,2.0,2019-12-01T00:00:00Z,2020-11-08T00:00:00Z
-Halifax_St. Margarets Bay_Shut-In Island_15.0_2019-12-01T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Shut-In Island,15.0,2019-12-01T00:00:00Z,2020-11-08T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_12.0_2020-10-27T00:00:00Z_2021-08-09T00:00:00Z,Spry Bay,Spry Harbour,12.0,2020-10-27T00:00:00Z,2021-08-09T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_5.0_2020-10-27T00:00:00Z_2021-08-09T00:00:00Z,Spry Bay,Spry Harbour,5.0,2020-10-27T00:00:00Z,2021-08-09T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_10.0_2020-10-27T00:00:00Z_2021-08-09T00:00:00Z,Spry Bay,Spry Harbour,10.0,2020-10-27T00:00:00Z,2021-08-09T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_2.0_2020-10-27T00:00:00Z_2021-08-09T00:00:00Z,Spry Bay,Spry Harbour,2.0,2020-10-27T00:00:00Z,2021-08-09T00:00:00Z
-Halifax_St. Margarets Bay_Shut-In Island_20.0_2019-12-01T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2019-12-01T00:00:00Z,2020-11-08T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_20.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_5.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Shut-In Island,5.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_2.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Shut-In Island,2.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
@@ -438,74 +534,91 @@ Halifax_St. Margarets Bay_Shut-In Island_10.0_2020-11-08T00:00:00Z_2021-05-21T00
 Halifax_St. Margarets Bay_Shut-In Island_15.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Shut-In Island,15.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Halifax_Sober Island Pond_Sober Island_2.0_2020-11-19T00:00:00Z_2021-08-27T00:00:00Z,Sober Island Pond,Sober Island,2.0,2020-11-19T00:00:00Z,2021-08-27T00:00:00Z
 Halifax_Sober Island Pond_Sober Island_1.0_2020-11-19T00:00:00Z_2021-08-27T00:00:00Z,Sober Island Pond,Sober Island,1.0,2020-11-19T00:00:00Z,2021-08-27T00:00:00Z
-Halifax_Beaver Harbour_Beaver Point_15.0_2019-10-20T00:00:00Z_2020-12-12T00:00:00Z,Beaver Harbour,Beaver Point,15.0,2019-10-20T00:00:00Z,2020-12-12T00:00:00Z
 Halifax_Beaver Harbour_Beaver Point_2.0_2020-12-12T00:00:00Z_2021-11-09T00:00:00Z,Beaver Harbour,Beaver Point,2.0,2020-12-12T00:00:00Z,2021-11-09T00:00:00Z
 Halifax_Beaver Harbour_Beaver Point_10.0_2020-12-12T00:00:00Z_2021-11-09T00:00:00Z,Beaver Harbour,Beaver Point,10.0,2020-12-12T00:00:00Z,2021-11-09T00:00:00Z
 Halifax_Beaver Harbour_Beaver Point_5.0_2020-12-12T00:00:00Z_2021-11-09T00:00:00Z,Beaver Harbour,Beaver Point,5.0,2020-12-12T00:00:00Z,2021-11-09T00:00:00Z
 Halifax_Beaver Harbour_Beaver Point_15.0_2020-12-12T00:00:00Z_2021-11-09T00:00:00Z,Beaver Harbour,Beaver Point,15.0,2020-12-12T00:00:00Z,2021-11-09T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_15.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Shut-In Island,15.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_10.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Shut-In Island,10.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_2.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Shut-In Island,2.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_5.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Shut-In Island,5.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_20.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_5.0_2021-08-09T00:00:00Z_2022-08-16T00:00:00Z,Spry Bay,Spry Harbour,5.0,2021-08-09T00:00:00Z,2022-08-16T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_2.0_2021-08-09T00:00:00Z_2022-08-16T00:00:00Z,Spry Bay,Spry Harbour,2.0,2021-08-09T00:00:00Z,2022-08-16T00:00:00Z
+Halifax_Spry Bay_Spry Harbour_10.0_2021-08-09T00:00:00Z_2022-08-16T00:00:00Z,Spry Bay,Spry Harbour,10.0,2021-08-09T00:00:00Z,2022-08-16T00:00:00Z
+Halifax_Spry Bay_Spry Harbour_12.0_2021-08-09T00:00:00Z_2022-08-16T00:00:00Z,Spry Bay,Spry Harbour,12.0,2021-08-09T00:00:00Z,2022-08-16T00:00:00Z
 Halifax_Sober Island Pond_Sober Island_0.5_2021-08-27T00:00:00Z_2022-09-14T00:00:00Z,Sober Island Pond,Sober Island,0.5,2021-08-27T00:00:00Z,2022-09-14T00:00:00Z
 Halifax_Sober Island Pond_Sober Island_2.0_2021-08-27T00:00:00Z_2022-09-14T00:00:00Z,Sober Island Pond,Sober Island,2.0,2021-08-27T00:00:00Z,2022-09-14T00:00:00Z
-Halifax_St. Margarets Bay_Shut-In Island_20.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_15.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Shut-In Island,15.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_2.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Shut-In Island,2.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_10.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Shut-In Island,10.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_5.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Shut-In Island,5.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_20.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_20.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_5.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Shut-In Island,5.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_10.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Shut-In Island,10.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
-Halifax_Spry Bay_Spry Harbour_12.0_2021-08-09T00:00:00Z_2022-08-16T00:00:00Z,Spry Bay,Spry Harbour,12.0,2021-08-09T00:00:00Z,2022-08-16T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_15.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Shut-In Island,15.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_2.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Shut-In Island,2.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_2.0_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Spry Bay,Spry Harbour,2.0,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
-Halifax_Spry Bay_Spry Harbour_4.87_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Spry Bay,Spry Harbour,4.87,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
-Halifax_Spry Bay_Spry Harbour_9.82_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Spry Bay,Spry Harbour,9.82,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
+Halifax_Spry Bay_Spry Harbour_5.0_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Spry Bay,Spry Harbour,5.0,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
+Halifax_Spry Bay_Spry Harbour_10.0_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Spry Bay,Spry Harbour,10.0,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_12.0_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Spry Bay,Spry Harbour,12.0,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
 Halifax_Sober Island Pond_Sober Island_0.5_2022-09-13T00:00:00Z_2023-11-14T00:00:00Z,Sober Island Pond,Sober Island,0.5,2022-09-13T00:00:00Z,2023-11-14T00:00:00Z
 Halifax_Sober Island Pond_Sober Island_2.0_2022-09-13T00:00:00Z_2023-11-14T00:00:00Z,Sober Island Pond,Sober Island,2.0,2022-09-13T00:00:00Z,2023-11-14T00:00:00Z
-Halifax_Spry Bay_Spry Harbour_10.0_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Spry Bay,Spry Harbour,10.0,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
-Halifax_Spry Bay_Spry Harbour_5.0_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Spry Bay,Spry Harbour,5.0,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
-Halifax_Sober Island Pond_Sober Island_0.4_2022-09-13T00:00:00Z_2023-11-14T00:00:00Z,Sober Island Pond,Sober Island,0.4,2022-09-13T00:00:00Z,2023-11-14T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_20.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_2.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Shut-In Island,2.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_15.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Shut-In Island,15.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_10.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Shut-In Island,10.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
+Halifax_Halifax Harbour_Timmonds Cove_22.0_2023-03-07T00:00:00Z_2024-02-17T00:00:00Z,Halifax Harbour,Timmonds Cove,22.0,2023-03-07T00:00:00Z,2024-02-17T00:00:00Z
 Halifax_Halifax Harbour_Timmonds Cove_21.0_2023-03-07T00:00:00Z_2024-02-17T00:00:00Z,Halifax Harbour,Timmonds Cove,21.0,2023-03-07T00:00:00Z,2024-02-17T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_5.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Shut-In Island,5.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_10.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Shut-In Island,10.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_2.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Shut-In Island,2.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_15.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Shut-In Island,15.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_20.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
 Halifax_Lawrencetown Beach_Lawrencetown Beach_10.0_2023-08-22T00:00:00Z_2024-09-12T00:00:00Z,Lawrencetown Beach,Lawrencetown Beach,10.0,2023-08-22T00:00:00Z,2024-09-12T00:00:00Z
 Halifax_Lawrencetown Beach_Lawrencetown Beach_2.0_2023-08-22T00:00:00Z_2024-09-12T00:00:00Z,Lawrencetown Beach,Lawrencetown Beach,2.0,2023-08-22T00:00:00Z,2024-09-12T00:00:00Z
 Halifax_Lawrencetown Beach_Lawrencetown Beach_5.0_2023-08-22T00:00:00Z_2024-09-12T00:00:00Z,Lawrencetown Beach,Lawrencetown Beach,5.0,2023-08-22T00:00:00Z,2024-09-12T00:00:00Z
-Halifax_Spry Bay_Spry Harbour_12.32_2022-08-16T00:00:00Z_2023-10-27T00:00:00Z,Spry Bay,Spry Harbour,12.32,2022-08-16T00:00:00Z,2023-10-27T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_5.0_2023-10-27T00:00:00Z_2024-09-12T00:00:00Z,Spry Bay,Spry Harbour,5.0,2023-10-27T00:00:00Z,2024-09-12T00:00:00Z
 Halifax_Spry Bay_Spry Harbour_2.0_2023-10-27T00:00:00Z_2024-09-12T00:00:00Z,Spry Bay,Spry Harbour,2.0,2023-10-27T00:00:00Z,2024-09-12T00:00:00Z
-Halifax_St. Margarets Bay_Shut-In Island_20.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Halifax_Spry Bay_Spry Harbour_10.0_2023-10-27T00:00:00Z_2024-09-12T00:00:00Z,Spry Bay,Spry Harbour,10.0,2023-10-27T00:00:00Z,2024-09-12T00:00:00Z
+Halifax_Spry Bay_Spry Harbour_12.0_2023-10-27T00:00:00Z_2024-09-12T00:00:00Z,Spry Bay,Spry Harbour,12.0,2023-10-27T00:00:00Z,2024-09-12T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_20.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_2.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Shut-In Island,2.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_10.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Shut-In Island,10.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_15.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Shut-In Island,15.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
-Halifax_Halifax Harbour_Timmonds Cove_22.0_2023-03-07T00:00:00Z_2024-02-17T00:00:00Z,Halifax Harbour,Timmonds Cove,22.0,2023-03-07T00:00:00Z,2024-02-17T00:00:00Z
 Halifax_Halifax Harbour_Timmonds Cove_16.5_2024-03-05T00:00:00Z_2024-11-21T00:00:00Z,Halifax Harbour,Timmonds Cove,16.5,2024-03-05T00:00:00Z,2024-11-21T00:00:00Z
 Halifax_Halifax Harbour_Timmonds Cove_16.0_2024-03-05T00:00:00Z_2024-11-21T00:00:00Z,Halifax Harbour,Timmonds Cove,16.0,2024-03-05T00:00:00Z,2024-11-21T00:00:00Z
 Halifax_Halifax Harbour_Timmonds Cove_18.0_2024-03-05T00:00:00Z_2024-11-21T00:00:00Z,Halifax Harbour,Timmonds Cove,18.0,2024-03-05T00:00:00Z,2024-11-21T00:00:00Z
 Halifax_St. Margarets Bay_Shut-In Island_10.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Shut-In Island,10.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_2.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Shut-In Island,2.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_15.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Shut-In Island,15.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Halifax_St. Margarets Bay_Shut-In Island_20.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Shut-In Island,20.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
 Inverness_Whycocomagh Basin_0814x W_8.0_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x W,8.0,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
-Inverness_Whycocomagh Basin_0814x West_8.0_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x West,8.0,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
-Inverness_Whycocomagh Basin_0814x W_10.0_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x W,10.0,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
-Inverness_Whycocomagh Basin_0814x West_10.0_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x West,10.0,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
-Inverness_Whycocomagh Basin_0814x East_17.5_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x East,17.5,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
-Inverness_Whycocomagh Basin_0814x East_10.0_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x East,10.0,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
-Inverness_Whycocomagh Basin_0814x E_17.5_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x E,17.5,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
-Inverness_Whycocomagh Basin_0814x E_10.0_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x E,10.0,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
 Inverness_Whycocomagh Basin_0814x W_17.5_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x W,17.5,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
-Inverness_Whycocomagh Basin_0814x West_17.5_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x West,17.5,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
+Inverness_Whycocomagh Basin_0814x W_10.0_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x W,10.0,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
+Inverness_Whycocomagh Basin_0814x E_17.5_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x E,17.5,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
 Inverness_Whycocomagh Basin_0814x E_8.0_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x E,8.0,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
-Inverness_Whycocomagh Basin_0814x East_8.0_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x East,8.0,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
+Inverness_Whycocomagh Basin_0814x E_10.0_2020-09-09T00:00:00Z_2020-12-04T00:00:00Z,Whycocomagh Basin,0814x E,10.0,2020-09-09T00:00:00Z,2020-12-04T00:00:00Z
 Inverness_Mabou Harbour_1330_2.0_2022-08-03T00:00:00Z_2022-10-24T00:00:00Z,Mabou Harbour,1330,2.0,2022-08-03T00:00:00Z,2022-10-24T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_20.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Flat Island,20.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_15.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Flat Island,15.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_10.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Flat Island,10.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_2.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Flat Island,2.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_2.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,2.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_10.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,10.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_20.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,20.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_27.0_2020-06-04T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Upper Blandford,27.0,2020-06-04T00:00:00Z,2020-11-09T00:00:00Z
 Lunenburg_Mahone Bay_Upper Blandford_5.0_2020-06-04T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Upper Blandford,5.0,2020-06-04T00:00:00Z,2020-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_10.0_2020-06-04T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Upper Blandford,10.0,2020-06-04T00:00:00Z,2020-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_15.0_2020-06-04T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Upper Blandford,15.0,2020-06-04T00:00:00Z,2020-11-09T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_40.0_2019-11-22T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Birchy Head,40.0,2019-11-22T00:00:00Z,2020-11-08T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_30.0_2019-11-22T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Birchy Head,30.0,2019-11-22T00:00:00Z,2020-11-08T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_10.0_2019-11-22T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Birchy Head,10.0,2019-11-22T00:00:00Z,2020-11-08T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_15.0_2019-11-22T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Birchy Head,15.0,2019-11-22T00:00:00Z,2020-11-08T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_2.0_2019-11-22T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Birchy Head,2.0,2019-11-22T00:00:00Z,2020-11-08T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_37.0_2020-05-14T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Tilley Point,37.0,2020-05-14T00:00:00Z,2020-11-08T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_10.0_2020-05-14T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Tilley Point,10.0,2020-05-14T00:00:00Z,2020-11-08T00:00:00Z
@@ -518,14 +631,13 @@ Lunenburg_St. Margarets Bay_Birchy Head_20.0_2019-11-22T00:00:00Z_2020-11-08T00:
 Lunenburg_St. Margarets Bay_Tilley Point_2.0_2020-05-14T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Tilley Point,2.0,2020-05-14T00:00:00Z,2020-11-08T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_25.0_2020-05-14T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Tilley Point,25.0,2020-05-14T00:00:00Z,2020-11-08T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_15.0_2020-05-14T00:00:00Z_2020-11-08T00:00:00Z,St. Margarets Bay,Tilley Point,15.0,2020-05-14T00:00:00Z,2020-11-08T00:00:00Z
-Lunenburg_Mahone Bay_Upper Blandford_10.0_2020-06-04T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Upper Blandford,10.0,2020-06-04T00:00:00Z,2020-11-09T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_5.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Birchy Head,5.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_20.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Birchy Head,20.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_15.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Birchy Head,15.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_10.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Birchy Head,10.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_2.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Birchy Head,2.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_30.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Birchy Head,30.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_40.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Birchy Head,40.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_30.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Tilley Point,30.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_25.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Tilley Point,25.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_20.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Tilley Point,20.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
@@ -533,12 +645,12 @@ Lunenburg_St. Margarets Bay_Tilley Point_15.0_2020-11-08T00:00:00Z_2021-05-21T00
 Lunenburg_St. Margarets Bay_Tilley Point_2.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Tilley Point,2.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_5.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Tilley Point,5.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_10.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Tilley Point,10.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_37.0_2020-11-08T00:00:00Z_2021-05-21T00:00:00Z,St. Margarets Bay,Tilley Point,37.0,2020-11-08T00:00:00Z,2021-05-21T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_20.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Little Rafuse Island,20.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_2.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Little Rafuse Island,2.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_10.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Little Rafuse Island,10.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_20.0_2019-11-17T00:00:00Z_2020-11-09T00:00:00Z,Mahone Bay,Flat Island,20.0,2019-11-17T00:00:00Z,2020-11-09T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_20.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Flat Island,20.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_5.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Flat Island,5.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
@@ -550,78 +662,163 @@ Lunenburg_Mahone Bay_Upper Blandford_10.0_2020-11-09T00:00:00Z_2021-05-20T00:00:
 Lunenburg_Mahone Bay_Upper Blandford_2.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Upper Blandford,2.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
 Lunenburg_Mahone Bay_Upper Blandford_5.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Upper Blandford,5.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
 Lunenburg_Mahone Bay_Upper Blandford_15.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Upper Blandford,15.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
 Lunenburg_Mahone Bay_Upper Blandford_27.0_2020-11-09T00:00:00Z_2021-05-20T00:00:00Z,Mahone Bay,Upper Blandford,27.0,2020-11-09T00:00:00Z,2021-05-20T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_20.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,20.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_10.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,10.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_2.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,2.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_2.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Flat Island,2.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_10.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Flat Island,10.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_15.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Flat Island,15.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_5.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Flat Island,5.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_20.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Flat Island,20.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
 Lunenburg_Mahone Bay_Upper Blandford_5.0_2021-05-20T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,5.0,2021-05-20T00:00:00Z,2024-05-30T00:00:00Z
 Lunenburg_Mahone Bay_Upper Blandford_2.0_2021-05-20T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,2.0,2021-05-20T00:00:00Z,2024-05-30T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_15.0_2021-05-20T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,15.0,2021-05-20T00:00:00Z,2024-05-30T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_10.0_2021-05-20T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,10.0,2021-05-20T00:00:00Z,2024-05-30T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_27.0_2021-05-20T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,27.0,2021-05-20T00:00:00Z,2024-05-30T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_10.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Birchy Head,10.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_20.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Birchy Head,20.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_30.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Birchy Head,30.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_2.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Birchy Head,2.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_15.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Birchy Head,15.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_5.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Birchy Head,5.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_30.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Tilley Point,30.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_20.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Tilley Point,20.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_10.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Tilley Point,10.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_2.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Tilley Point,2.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_25.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Tilley Point,25.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_15.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Tilley Point,15.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_5.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Tilley Point,5.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
-Lunenburg_Mahone Bay_Upper Blandford_27.0_2021-05-20T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,27.0,2021-05-20T00:00:00Z,2024-05-30T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_40.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Birchy Head,40.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_20.0_2021-05-20T00:00:00Z_2021-11-21T00:00:00Z,Mahone Bay,Flat Island,20.0,2021-05-20T00:00:00Z,2021-11-21T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_2.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Little Rafuse Island,2.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_15.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Flat Island,15.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_5.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Flat Island,5.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_37.0_2021-05-21T00:00:00Z_2021-11-26T00:00:00Z,St. Margarets Bay,Tilley Point,37.0,2021-05-21T00:00:00Z,2021-11-26T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_2.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Little Rafuse Island,2.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_20.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Little Rafuse Island,20.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_10.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Little Rafuse Island,10.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_15.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Flat Island,15.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_2.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Flat Island,2.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_10.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Flat Island,10.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_5.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Flat Island,5.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_20.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Flat Island,20.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_20.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Birchy Head,20.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_15.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Birchy Head,15.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_30.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Birchy Head,30.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_10.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Birchy Head,10.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_5.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Birchy Head,5.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_40.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Birchy Head,40.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_2.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Birchy Head,2.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_10.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Tilley Point,10.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_2.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Tilley Point,2.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_25.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Tilley Point,25.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_20.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Tilley Point,20.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_15.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Tilley Point,15.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_30.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Tilley Point,30.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_5.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Tilley Point,5.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_37.0_2021-11-26T00:00:00Z_2022-05-12T00:00:00Z,St. Margarets Bay,Tilley Point,37.0,2021-11-26T00:00:00Z,2022-05-12T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_5.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Tilley Point,5.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_37.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Tilley Point,37.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_30.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Tilley Point,30.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_2.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Tilley Point,2.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_20.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Tilley Point,20.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_25.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Tilley Point,25.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_15.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Tilley Point,15.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_10.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Tilley Point,10.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_2.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Birchy Head,2.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_15.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Birchy Head,15.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_10.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Birchy Head,10.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_20.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Birchy Head,20.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_30.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Birchy Head,30.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_5.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Birchy Head,5.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
-Lunenburg_Mahone Bay_Upper Blandford_15.0_2022-05-13T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Upper Blandford,15.0,2022-05-13T00:00:00Z,2022-11-19T00:00:00Z
-Lunenburg_Mahone Bay_Upper Blandford_5.0_2022-05-13T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Upper Blandford,5.0,2022-05-13T00:00:00Z,2022-11-19T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_20.0_2021-11-21T00:00:00Z_2022-05-24T00:00:00Z,Mahone Bay,Flat Island,20.0,2021-11-21T00:00:00Z,2022-05-24T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_15.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Flat Island,15.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_5.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Flat Island,5.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_40.0_2022-05-12T00:00:00Z_2022-11-03T00:00:00Z,St. Margarets Bay,Birchy Head,40.0,2022-05-12T00:00:00Z,2022-11-03T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_15.0_2022-05-13T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Upper Blandford,15.0,2022-05-13T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_2.0_2022-05-13T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Upper Blandford,2.0,2022-05-13T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_10.0_2022-05-13T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Upper Blandford,10.0,2022-05-13T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_20.0_2022-05-13T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Upper Blandford,20.0,2022-05-13T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_5.0_2022-05-13T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Upper Blandford,5.0,2022-05-13T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_27.0_2022-05-13T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Upper Blandford,27.0,2022-05-13T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_15.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Flat Island,15.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_2.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Flat Island,2.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_10.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Flat Island,10.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_5.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Flat Island,5.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_20.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Flat Island,20.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_20.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Little Rafuse Island,20.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_10.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Little Rafuse Island,10.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_2.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Little Rafuse Island,2.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_15.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Birchy Head,15.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_2.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Birchy Head,2.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_20.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Birchy Head,20.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_5.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Birchy Head,5.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_30.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Birchy Head,30.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_15.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Tilley Point,15.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_25.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Tilley Point,25.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_20.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Tilley Point,20.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_10.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Tilley Point,10.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_2.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Tilley Point,2.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_30.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Tilley Point,30.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_5.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Tilley Point,5.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_10.0_2022-11-03T00:00:00Z_2023-05-15T00:00:00Z,St. Margarets Bay,Birchy Head,10.0,2022-11-03T00:00:00Z,2023-05-15T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_20.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Flat Island,20.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
-Lunenburg_Mahone Bay_Upper Blandford_27.0_2022-05-13T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Upper Blandford,27.0,2022-05-13T00:00:00Z,2022-11-19T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2022-05-24T00:00:00Z_2022-11-19T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2022-05-24T00:00:00Z,2022-11-19T00:00:00Z
-Lunenburg_Mahone Bay_Upper Blandford_10.0_2022-11-19T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,10.0,2022-11-19T00:00:00Z,2024-05-30T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_10.0_2022-11-19T00:00:00Z_2023-05-09T00:00:00Z,Mahone Bay,Little Rafuse Island,10.0,2022-11-19T00:00:00Z,2023-05-09T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2022-11-19T00:00:00Z_2023-05-09T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2022-11-19T00:00:00Z,2023-05-09T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_15.0_2022-11-19T00:00:00Z_2023-01-10T00:00:00Z,Mahone Bay,Flat Island,15.0,2022-11-19T00:00:00Z,2023-01-10T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_5.0_2022-11-19T00:00:00Z_2023-01-10T00:00:00Z,Mahone Bay,Flat Island,5.0,2022-11-19T00:00:00Z,2023-01-10T00:00:00Z
 Lunenburg_Mahone Bay_Upper Blandford_27.0_2022-11-19T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,27.0,2022-11-19T00:00:00Z,2024-05-30T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_2.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Flat Island,2.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_10.0_2022-11-19T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,10.0,2022-11-19T00:00:00Z,2024-05-30T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_20.0_2022-11-19T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,20.0,2022-11-19T00:00:00Z,2024-05-30T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_15.0_2022-11-19T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,15.0,2022-11-19T00:00:00Z,2024-05-30T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_5.0_2022-11-19T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,5.0,2022-11-19T00:00:00Z,2024-05-30T00:00:00Z
+Lunenburg_Mahone Bay_Upper Blandford_2.0_2022-11-19T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,2.0,2022-11-19T00:00:00Z,2024-05-30T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_10.0_2022-11-19T00:00:00Z_2023-05-09T00:00:00Z,Mahone Bay,Little Rafuse Island,10.0,2022-11-19T00:00:00Z,2023-05-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_20.0_2022-11-19T00:00:00Z_2023-05-09T00:00:00Z,Mahone Bay,Little Rafuse Island,20.0,2022-11-19T00:00:00Z,2023-05-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_2.0_2022-11-19T00:00:00Z_2023-05-09T00:00:00Z,Mahone Bay,Little Rafuse Island,2.0,2022-11-19T00:00:00Z,2023-05-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2022-11-19T00:00:00Z_2023-05-09T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2022-11-19T00:00:00Z,2023-05-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2022-11-19T00:00:00Z_2023-05-09T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2022-11-19T00:00:00Z,2023-05-09T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2022-11-19T00:00:00Z_2023-05-09T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2022-11-19T00:00:00Z,2023-05-09T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_15.0_2022-11-19T00:00:00Z_2023-01-10T00:00:00Z,Mahone Bay,Flat Island,15.0,2022-11-19T00:00:00Z,2023-01-10T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_2.0_2022-11-19T00:00:00Z_2023-01-10T00:00:00Z,Mahone Bay,Flat Island,2.0,2022-11-19T00:00:00Z,2023-01-10T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_10.0_2022-11-19T00:00:00Z_2023-01-10T00:00:00Z,Mahone Bay,Flat Island,10.0,2022-11-19T00:00:00Z,2023-01-10T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_5.0_2022-11-19T00:00:00Z_2023-01-10T00:00:00Z,Mahone Bay,Flat Island,5.0,2022-11-19T00:00:00Z,2023-01-10T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_2.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Flat Island,2.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_5.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Flat Island,5.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_15.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Flat Island,15.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_10.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Flat Island,10.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_20.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Flat Island,20.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_10.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,10.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_2.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,2.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_20.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,20.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2023-05-08T00:00:00Z_2023-11-09T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2023-05-08T00:00:00Z,2023-11-09T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_25.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Tilley Point,25.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_5.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Tilley Point,5.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_2.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Tilley Point,2.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_30.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Tilley Point,30.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_10.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Tilley Point,10.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_15.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Tilley Point,15.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_20.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Tilley Point,20.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_2.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Birchy Head,2.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_10.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Birchy Head,10.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_30.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Birchy Head,30.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_20.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Birchy Head,20.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_15.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Birchy Head,15.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_5.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Birchy Head,5.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_40.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Birchy Head,40.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_37.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Tilley Point,37.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_20.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Flat Island,20.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_5.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Flat Island,5.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_2.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Flat Island,2.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_10.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Flat Island,10.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_15.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Flat Island,15.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_10.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Little Rafuse Island,10.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_20.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Little Rafuse Island,20.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_2.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Little Rafuse Island,2.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
-Lunenburg_St. Margarets Bay_Tilley Point_37.0_2023-05-15T00:00:00Z_2023-11-10T00:00:00Z,St. Margarets Bay,Tilley Point,37.0,2023-05-15T00:00:00Z,2023-11-10T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_40.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Birchy Head,40.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_5.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Birchy Head,5.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_20.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Birchy Head,20.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_30.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Birchy Head,30.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
@@ -633,36 +830,50 @@ Lunenburg_St. Margarets Bay_Tilley Point_20.0_2023-11-10T00:00:00Z_2024-05-02T00
 Lunenburg_St. Margarets Bay_Tilley Point_25.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Tilley Point,25.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_30.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Tilley Point,30.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_5.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Tilley Point,5.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
-Lunenburg_Mahone Bay_Upper Blandford_20.0_2022-11-19T00:00:00Z_2024-05-30T00:00:00Z,Mahone Bay,Upper Blandford,20.0,2022-11-19T00:00:00Z,2024-05-30T00:00:00Z
-Lunenburg_Mahone Bay_Flat Island_20.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Flat Island,20.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
-Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2023-11-09T00:00:00Z_2024-05-02T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2023-11-09T00:00:00Z,2024-05-02T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_37.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Tilley Point,37.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_15.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,15.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_20.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,20.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_10.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,10.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_2.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,2.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
 Lunenburg_Mahone Bay_Little Rafuse Island_5.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,5.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_10.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Flat Island,10.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_15.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Flat Island,15.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_2.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Flat Island,2.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
 Lunenburg_Mahone Bay_Flat Island_5.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Flat Island,5.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
-Lunenburg_St. Margarets Bay_Birchy Head_40.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Birchy Head,40.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
-Lunenburg_St. Margarets Bay_Tilley Point_37.0_2023-11-10T00:00:00Z_2024-05-02T00:00:00Z,St. Margarets Bay,Tilley Point,37.0,2023-11-10T00:00:00Z,2024-05-02T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_15.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Birchy Head,15.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_30.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Birchy Head,30.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Birchy Head_5.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Birchy Head,5.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_10.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Birchy Head,10.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_20.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Birchy Head,20.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_25.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Tilley Point,25.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_2.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Tilley Point,2.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_30.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Tilley Point,30.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_20.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Tilley Point,20.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_10.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Tilley Point,10.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_15.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Tilley Point,15.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
 Lunenburg_St. Margarets Bay_Tilley Point_5.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Tilley Point,5.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Little Rafuse Island_25.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Little Rafuse Island,25.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_Mahone Bay_Flat Island_20.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,Mahone Bay,Flat Island,20.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Birchy Head_40.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Birchy Head,40.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
+Lunenburg_St. Margarets Bay_Tilley Point_37.0_2024-05-02T00:00:00Z_2024-11-21T00:00:00Z,St. Margarets Bay,Tilley Point,37.0,2024-05-02T00:00:00Z,2024-11-21T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_2.0_2020-10-01T00:00:00Z_2021-06-24T00:00:00Z,Merigomish Harbour,Olding Island,2.0,2020-10-01T00:00:00Z,2021-06-24T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_5.0_2020-10-01T00:00:00Z_2021-06-24T00:00:00Z,Merigomish Harbour,Olding Island,5.0,2020-10-01T00:00:00Z,2021-06-24T00:00:00Z
+Pictou_Merigomish Harbour_Olding Island_8.0_2020-10-01T00:00:00Z_2021-06-24T00:00:00Z,Merigomish Harbour,Olding Island,8.0,2020-10-01T00:00:00Z,2021-06-24T00:00:00Z
 Pictou_Little Harbour_Melmerby Beach_1.0_2020-10-01T00:00:00Z_2021-06-04T00:00:00Z,Little Harbour,Melmerby Beach,1.0,2020-10-01T00:00:00Z,2021-06-04T00:00:00Z
 Pictou_Little Harbour_Melmerby Beach_2.0_2020-10-01T00:00:00Z_2021-06-04T00:00:00Z,Little Harbour,Melmerby Beach,2.0,2020-10-01T00:00:00Z,2021-06-04T00:00:00Z
-Pictou_Merigomish Harbour_Olding Island_8.0_2020-10-01T00:00:00Z_2021-06-24T00:00:00Z,Merigomish Harbour,Olding Island,8.0,2020-10-01T00:00:00Z,2021-06-24T00:00:00Z
 Pictou_Little Harbour_Melmerby Beach_1.0_2021-06-04T00:00:00Z_2022-06-19T00:00:00Z,Little Harbour,Melmerby Beach,1.0,2021-06-04T00:00:00Z,2022-06-19T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_3.0_2021-06-24T00:00:00Z_2022-05-26T00:00:00Z,Merigomish Harbour,Olding Island,3.0,2021-06-24T00:00:00Z,2022-05-26T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_5.0_2021-06-24T00:00:00Z_2022-05-26T00:00:00Z,Merigomish Harbour,Olding Island,5.0,2021-06-24T00:00:00Z,2022-05-26T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_3.0_2022-06-03T00:00:00Z_2022-09-30T00:00:00Z,Merigomish Harbour,Olding Island,3.0,2022-06-03T00:00:00Z,2022-09-30T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_2.0_2022-06-03T00:00:00Z_2022-09-30T00:00:00Z,Merigomish Harbour,Olding Island,2.0,2022-06-03T00:00:00Z,2022-09-30T00:00:00Z
+Pictou_Merigomish Harbour_Olding Island_5.0_2022-06-03T00:00:00Z_2022-09-30T00:00:00Z,Merigomish Harbour,Olding Island,5.0,2022-06-03T00:00:00Z,2022-09-30T00:00:00Z
 Pictou_Little Harbour_Roy Island 1_0.5_2022-06-07T00:00:00Z_2022-09-21T00:00:00Z,Little Harbour,Roy Island 1,0.5,2022-06-07T00:00:00Z,2022-09-21T00:00:00Z
 Pictou_Little Harbour_Roy Island 2_0.5_2022-06-07T00:00:00Z_2022-09-20T00:00:00Z,Little Harbour,Roy Island 2,0.5,2022-06-07T00:00:00Z,2022-09-20T00:00:00Z
 Pictou_Little Harbour_Roy Island 3_0.5_2022-06-07T00:00:00Z_2022-09-20T00:00:00Z,Little Harbour,Roy Island 3,0.5,2022-06-07T00:00:00Z,2022-09-20T00:00:00Z
-Pictou_Merigomish Harbour_Olding Island_5.0_2022-06-03T00:00:00Z_2022-09-30T00:00:00Z,Merigomish Harbour,Olding Island,5.0,2022-06-03T00:00:00Z,2022-09-30T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_3.0_2022-09-30T00:00:00Z_2023-07-20T00:00:00Z,Merigomish Harbour,Olding Island,3.0,2022-09-30T00:00:00Z,2023-07-20T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_2.0_2022-09-30T00:00:00Z_2023-07-20T00:00:00Z,Merigomish Harbour,Olding Island,2.0,2022-09-30T00:00:00Z,2023-07-20T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_5.0_2022-09-30T00:00:00Z_2023-07-20T00:00:00Z,Merigomish Harbour,Olding Island,5.0,2022-09-30T00:00:00Z,2023-07-20T00:00:00Z
+Pictou_Merigomish Harbour_Olding Island_2.0_2023-07-20T00:00:00Z_2023-11-01T00:00:00Z,Merigomish Harbour,Olding Island,2.0,2023-07-20T00:00:00Z,2023-11-01T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_5.0_2023-07-20T00:00:00Z_2023-11-01T00:00:00Z,Merigomish Harbour,Olding Island,5.0,2023-07-20T00:00:00Z,2023-11-01T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_3.0_2023-07-20T00:00:00Z_2023-11-01T00:00:00Z,Merigomish Harbour,Olding Island,3.0,2023-07-20T00:00:00Z,2023-11-01T00:00:00Z
 Pictou_Merigomish Harbour_Olding Island_3.0_2023-11-01T00:00:00Z_2024-05-15T00:00:00Z,Merigomish Harbour,Olding Island,3.0,2023-11-01T00:00:00Z,2024-05-15T00:00:00Z
@@ -677,54 +888,52 @@ Queens_Liverpool Bay_Mersey Point_2.0_2020-06-25T00:00:00Z_2021-08-13T00:00:00Z,
 Queens_Liverpool Bay_Mersey Point_10.0_2020-06-25T00:00:00Z_2021-08-13T00:00:00Z,Liverpool Bay,Mersey Point,10.0,2020-06-25T00:00:00Z,2021-08-13T00:00:00Z
 Queens_Liverpool Bay_Mersey Point_5.0_2021-08-13T00:00:00Z_2022-08-10T00:00:00Z,Liverpool Bay,Mersey Point,5.0,2021-08-13T00:00:00Z,2022-08-10T00:00:00Z
 Queens_Liverpool Bay_Mersey Point_10.0_2021-08-13T00:00:00Z_2022-08-10T00:00:00Z,Liverpool Bay,Mersey Point,10.0,2021-08-13T00:00:00Z,2022-08-10T00:00:00Z
+Queens_Liverpool Bay_Mersey Point_2.0_2021-08-13T00:00:00Z_2022-08-10T00:00:00Z,Liverpool Bay,Mersey Point,2.0,2021-08-13T00:00:00Z,2022-08-10T00:00:00Z
 Queens_Liverpool Bay_Mersey Point_15.0_2021-08-13T00:00:00Z_2022-08-10T00:00:00Z,Liverpool Bay,Mersey Point,15.0,2021-08-13T00:00:00Z,2022-08-10T00:00:00Z
 Queens_Liverpool Bay_Mersey Point_5.0_2022-08-10T00:00:00Z_2023-08-24T00:00:00Z,Liverpool Bay,Mersey Point,5.0,2022-08-10T00:00:00Z,2023-08-24T00:00:00Z
 Queens_Liverpool Bay_Mersey Point_10.0_2022-08-10T00:00:00Z_2023-08-24T00:00:00Z,Liverpool Bay,Mersey Point,10.0,2022-08-10T00:00:00Z,2023-08-24T00:00:00Z
-Queens_Sandy Bay_Lesser Hope Rock_10.0_2023-07-13T00:00:00Z_2024-07-22T00:00:00Z,Sandy Bay,Lesser Hope Rock,10.0,2023-07-13T00:00:00Z,2024-07-22T00:00:00Z
-Queens_Sandy Bay_Lesser Hope Rock_2.0_2023-07-13T00:00:00Z_2024-07-22T00:00:00Z,Sandy Bay,Lesser Hope Rock,2.0,2023-07-13T00:00:00Z,2024-07-22T00:00:00Z
+Queens_Liverpool Bay_Mersey Point_2.0_2022-08-10T00:00:00Z_2023-08-24T00:00:00Z,Liverpool Bay,Mersey Point,2.0,2022-08-10T00:00:00Z,2023-08-24T00:00:00Z
 Queens_Liverpool Bay_Mersey Point_15.0_2022-08-10T00:00:00Z_2023-08-24T00:00:00Z,Liverpool Bay,Mersey Point,15.0,2022-08-10T00:00:00Z,2023-08-24T00:00:00Z
+Queens_Sandy Bay_Lesser Hope Rock_10.0_2023-07-13T00:00:00Z_2024-07-22T00:00:00Z,Sandy Bay,Lesser Hope Rock,10.0,2023-07-13T00:00:00Z,2024-07-22T00:00:00Z
+Queens_Sandy Bay_Lesser Hope Rock_15.0_2023-07-13T00:00:00Z_2024-07-22T00:00:00Z,Sandy Bay,Lesser Hope Rock,15.0,2023-07-13T00:00:00Z,2024-07-22T00:00:00Z
+Queens_Sandy Bay_Lesser Hope Rock_2.0_2023-07-13T00:00:00Z_2024-07-22T00:00:00Z,Sandy Bay,Lesser Hope Rock,2.0,2023-07-13T00:00:00Z,2024-07-22T00:00:00Z
+Queens_Liverpool Bay_Mersey Point_15.0_2023-08-24T00:00:00Z_2024-07-22T00:00:00Z,Liverpool Bay,Mersey Point,15.0,2023-08-24T00:00:00Z,2024-07-22T00:00:00Z
 Queens_Liverpool Bay_Mersey Point_10.0_2023-08-24T00:00:00Z_2024-07-22T00:00:00Z,Liverpool Bay,Mersey Point,10.0,2023-08-24T00:00:00Z,2024-07-22T00:00:00Z
+Queens_Liverpool Bay_Mersey Point_2.0_2023-08-24T00:00:00Z_2024-07-22T00:00:00Z,Liverpool Bay,Mersey Point,2.0,2023-08-24T00:00:00Z,2024-07-22T00:00:00Z
 Queens_Liverpool Bay_Mersey Point_5.0_2023-08-24T00:00:00Z_2024-07-22T00:00:00Z,Liverpool Bay,Mersey Point,5.0,2023-08-24T00:00:00Z,2024-07-22T00:00:00Z
 Queens_Medway River_Fryingpan Island_5.0_2023-08-24T00:00:00Z_2024-07-22T00:00:00Z,Medway River,Fryingpan Island,5.0,2023-08-24T00:00:00Z,2024-07-22T00:00:00Z
 Queens_Medway River_Fryingpan Island_10.0_2023-08-24T00:00:00Z_2024-07-22T00:00:00Z,Medway River,Fryingpan Island,10.0,2023-08-24T00:00:00Z,2024-07-22T00:00:00Z
+Queens_Medway River_Fryingpan Island_2.0_2023-08-24T00:00:00Z_2024-07-22T00:00:00Z,Medway River,Fryingpan Island,2.0,2023-08-24T00:00:00Z,2024-07-22T00:00:00Z
 Queens_Medway River_Fryingpan Island_15.0_2023-08-24T00:00:00Z_2024-07-22T00:00:00Z,Medway River,Fryingpan Island,15.0,2023-08-24T00:00:00Z,2024-07-22T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_15.0_2020-04-30T00:00:00Z_2020-12-03T00:00:00Z,Arichat Harbour,Kavanagh Point,15.0,2020-04-30T00:00:00Z,2020-12-03T00:00:00Z
 Richmond_Lennox Passage_Gabion Shoal_20.0_2019-04-10T00:00:00Z_2019-04-10T00:00:00Z,Lennox Passage,Gabion Shoal,20.0,2019-04-10T00:00:00Z,2019-04-10T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_2.0_2020-04-30T00:00:00Z_2020-12-03T00:00:00Z,Arichat Harbour,Cape Auguet,2.0,2020-04-30T00:00:00Z,2020-12-03T00:00:00Z
+Richmond_Lennox Passage_Gabion Shoal_5.0_2019-04-10T00:00:00Z_2019-04-10T00:00:00Z,Lennox Passage,Gabion Shoal,5.0,2019-04-10T00:00:00Z,2019-04-10T00:00:00Z
+Richmond_Lennox Passage_Gabion Shoal_30.0_2019-04-10T00:00:00Z_2019-04-10T00:00:00Z,Lennox Passage,Gabion Shoal,30.0,2019-04-10T00:00:00Z,2019-04-10T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_2.0_2020-04-30T00:00:00Z_2020-12-03T00:00:00Z,Arichat Harbour,Kavanagh Point,2.0,2020-04-30T00:00:00Z,2020-12-03T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_5.0_2020-04-30T00:00:00Z_2020-12-03T00:00:00Z,Arichat Harbour,Cape Auguet,5.0,2020-04-30T00:00:00Z,2020-12-03T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_5.0_2020-04-30T00:00:00Z_2020-12-03T00:00:00Z,Arichat Harbour,Kavanagh Point,5.0,2020-04-30T00:00:00Z,2020-12-03T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_10.0_2020-04-30T00:00:00Z_2020-12-03T00:00:00Z,Arichat Harbour,Cape Auguet,10.0,2020-04-30T00:00:00Z,2020-12-03T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_10.0_2020-04-30T00:00:00Z_2020-12-03T00:00:00Z,Arichat Harbour,Kavanagh Point,10.0,2020-04-30T00:00:00Z,2020-12-03T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_10.0_2020-12-03T00:00:00Z_2021-09-15T00:00:00Z,Arichat Harbour,Cape Auguet,10.0,2020-12-03T00:00:00Z,2021-09-15T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_10.0_2020-12-03T00:00:00Z_2021-09-15T00:00:00Z,Arichat Harbour,Kavanagh Point,10.0,2020-12-03T00:00:00Z,2021-09-15T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_2.0_2020-12-03T00:00:00Z_2021-09-15T00:00:00Z,Arichat Harbour,Cape Auguet,2.0,2020-12-03T00:00:00Z,2021-09-15T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_2.0_2020-12-03T00:00:00Z_2021-09-15T00:00:00Z,Arichat Harbour,Kavanagh Point,2.0,2020-12-03T00:00:00Z,2021-09-15T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_5.0_2020-12-03T00:00:00Z_2021-09-15T00:00:00Z,Arichat Harbour,Cape Auguet,5.0,2020-12-03T00:00:00Z,2021-09-15T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_5.0_2020-12-03T00:00:00Z_2021-09-15T00:00:00Z,Arichat Harbour,Kavanagh Point,5.0,2020-12-03T00:00:00Z,2021-09-15T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_15.0_2020-12-03T00:00:00Z_2021-09-15T00:00:00Z,Arichat Harbour,Kavanagh Point,15.0,2020-12-03T00:00:00Z,2021-09-15T00:00:00Z
 Richmond_Lennox Passage_Cascarette Island_5.0_2021-06-14T00:00:00Z_2022-06-02T00:00:00Z,Lennox Passage,Cascarette Island,5.0,2021-06-14T00:00:00Z,2022-06-02T00:00:00Z
 Richmond_Arichat Harbour_Cape Auguet Bay_5.0_2021-06-14T00:00:00Z_2022-06-02T00:00:00Z,Arichat Harbour,Cape Auguet Bay,5.0,2021-06-14T00:00:00Z,2022-06-02T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_15.0_2020-12-03T00:00:00Z_2021-09-15T00:00:00Z,Arichat Harbour,Cape Auguet,15.0,2020-12-03T00:00:00Z,2021-09-15T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_5.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Arichat Harbour,Cape Auguet,5.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_5.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Arichat Harbour,Kavanagh Point,5.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_10.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Arichat Harbour,Cape Auguet,10.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_10.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Arichat Harbour,Kavanagh Point,10.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_15.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Arichat Harbour,Cape Auguet,15.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
+Richmond_Arichat Harbour_Kavanagh Point_2.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Arichat Harbour,Kavanagh Point,2.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_15.0_2021-09-15T00:00:00Z_2022-07-28T00:00:00Z,Arichat Harbour,Kavanagh Point,15.0,2021-09-15T00:00:00Z,2022-07-28T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_10.0_2022-07-28T00:00:00Z_2023-07-06T00:00:00Z,Arichat Harbour,Cape Auguet,10.0,2022-07-28T00:00:00Z,2023-07-06T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_10.0_2022-07-28T00:00:00Z_2023-07-06T00:00:00Z,Arichat Harbour,Kavanagh Point,10.0,2022-07-28T00:00:00Z,2023-07-06T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_5.0_2022-07-28T00:00:00Z_2023-07-06T00:00:00Z,Arichat Harbour,Cape Auguet,5.0,2022-07-28T00:00:00Z,2023-07-06T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_5.0_2022-07-28T00:00:00Z_2023-07-06T00:00:00Z,Arichat Harbour,Kavanagh Point,5.0,2022-07-28T00:00:00Z,2023-07-06T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_2.0_2022-07-28T00:00:00Z_2023-07-06T00:00:00Z,Arichat Harbour,Cape Auguet,2.0,2022-07-28T00:00:00Z,2023-07-06T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_2.0_2022-07-28T00:00:00Z_2023-07-06T00:00:00Z,Arichat Harbour,Kavanagh Point,2.0,2022-07-28T00:00:00Z,2023-07-06T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_15.0_2022-07-28T00:00:00Z_2023-07-06T00:00:00Z,Arichat Harbour,Kavanagh Point,15.0,2022-07-28T00:00:00Z,2023-07-06T00:00:00Z
-Richmond_Arichat Harbour_Cape Auguet_15.0_2022-07-28T00:00:00Z_2023-07-06T00:00:00Z,Arichat Harbour,Cape Auguet,15.0,2022-07-28T00:00:00Z,2023-07-06T00:00:00Z
 Richmond_Arichat Harbour_Jerseyman Island_2.0_2023-07-06T00:00:00Z_2024-07-03T00:00:00Z,Arichat Harbour,Jerseyman Island,2.0,2023-07-06T00:00:00Z,2024-07-03T00:00:00Z
+Richmond_Arichat Harbour_Jerseyman Island_5.0_2023-07-06T00:00:00Z_2024-07-03T00:00:00Z,Arichat Harbour,Jerseyman Island,5.0,2023-07-06T00:00:00Z,2024-07-03T00:00:00Z
+Richmond_Arichat Harbour_Jerseyman Island_10.0_2023-07-06T00:00:00Z_2024-07-03T00:00:00Z,Arichat Harbour,Jerseyman Island,10.0,2023-07-06T00:00:00Z,2024-07-03T00:00:00Z
+Richmond_Arichat Harbour_Jerseyman Island_11.0_2023-07-06T00:00:00Z_2024-07-03T00:00:00Z,Arichat Harbour,Jerseyman Island,11.0,2023-07-06T00:00:00Z,2024-07-03T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_5.0_2023-07-06T00:00:00Z_2024-07-03T00:00:00Z,Arichat Harbour,Kavanagh Point,5.0,2023-07-06T00:00:00Z,2024-07-03T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_10.0_2023-07-06T00:00:00Z_2024-07-03T00:00:00Z,Arichat Harbour,Kavanagh Point,10.0,2023-07-06T00:00:00Z,2024-07-03T00:00:00Z
+Richmond_Arichat Harbour_Kavanagh Point_2.0_2023-07-06T00:00:00Z_2024-07-03T00:00:00Z,Arichat Harbour,Kavanagh Point,2.0,2023-07-06T00:00:00Z,2024-07-03T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_15.0_2023-07-06T00:00:00Z_2024-07-03T00:00:00Z,Arichat Harbour,Kavanagh Point,15.0,2023-07-06T00:00:00Z,2024-07-03T00:00:00Z
-Richmond_Arichat Harbour_Jerseyman Island_11.0_2023-07-06T00:00:00Z_2024-07-03T00:00:00Z,Arichat Harbour,Jerseyman Island,11.0,2023-07-06T00:00:00Z,2024-07-03T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_5.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Arichat Harbour,Kavanagh Point,5.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_10.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Arichat Harbour,Kavanagh Point,10.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Richmond_Arichat Harbour_Kavanagh Point_2.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Arichat Harbour,Kavanagh Point,2.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
@@ -735,10 +944,17 @@ Richmond_Arichat Harbour_Jerseyman Island_5.0_2024-07-03T00:00:00Z_2024-10-17T00
 Richmond_Arichat Harbour_Jerseyman Island_10.0_2024-07-03T00:00:00Z_2024-10-17T00:00:00Z,Arichat Harbour,Jerseyman Island,10.0,2024-07-03T00:00:00Z,2024-10-17T00:00:00Z
 Shelburne_Green Harbour_Blue Island_10.0_2020-06-17T00:00:00Z_2021-08-13T00:00:00Z,Green Harbour,Blue Island,10.0,2020-06-17T00:00:00Z,2021-08-13T00:00:00Z
 Shelburne_Little Harbour_Little Harbour_10.0_2020-08-19T00:00:00Z_2021-08-13T00:00:00Z,Little Harbour,Little Harbour,10.0,2020-08-19T00:00:00Z,2021-08-13T00:00:00Z
+Shelburne_Negro Harbour_Ingomar_15.0_2019-12-17T00:00:00Z_2020-09-16T00:00:00Z,Negro Harbour,Ingomar,15.0,2019-12-17T00:00:00Z,2020-09-16T00:00:00Z
 Shelburne_Negro Harbour_Ingomar_2.0_2019-12-17T00:00:00Z_2020-09-16T00:00:00Z,Negro Harbour,Ingomar,2.0,2019-12-17T00:00:00Z,2020-09-16T00:00:00Z
+Shelburne_Port La Tour_Taylors Rock_20.0_2019-12-17T00:00:00Z_2020-09-16T00:00:00Z,Port La Tour,Taylors Rock,20.0,2019-12-17T00:00:00Z,2020-09-16T00:00:00Z
 Shelburne_Port La Tour_Taylors Rock_2.0_2019-12-17T00:00:00Z_2020-09-16T00:00:00Z,Port La Tour,Taylors Rock,2.0,2019-12-17T00:00:00Z,2020-09-16T00:00:00Z
+Shelburne_Port La Tour_Taylors Rock_15.0_2019-12-17T00:00:00Z_2020-09-16T00:00:00Z,Port La Tour,Taylors Rock,15.0,2019-12-17T00:00:00Z,2020-09-16T00:00:00Z
 Shelburne_Shelburne Harbour_McNutts Island_2.0_2020-08-19T00:00:00Z_2021-04-26T00:00:00Z,Shelburne Harbour,McNutts Island,2.0,2020-08-19T00:00:00Z,2021-04-26T00:00:00Z
+Shelburne_Shelburne Harbour_McNutts Island_10.0_2020-08-19T00:00:00Z_2021-04-26T00:00:00Z,Shelburne Harbour,McNutts Island,10.0,2020-08-19T00:00:00Z,2021-04-26T00:00:00Z
 Shelburne_Woods Harbour_Camerons Cove_2.0_2019-02-07T00:00:00Z_2020-09-01T00:00:00Z,Woods Harbour,Camerons Cove,2.0,2019-02-07T00:00:00Z,2020-09-01T00:00:00Z
+Shelburne_Woods Harbour_Camerons Cove_10.0_2019-02-07T00:00:00Z_2020-09-01T00:00:00Z,Woods Harbour,Camerons Cove,10.0,2019-02-07T00:00:00Z,2020-09-01T00:00:00Z
+Shelburne_Woods Harbour_Camerons Cove_5.0_2019-02-07T00:00:00Z_2020-09-01T00:00:00Z,Woods Harbour,Camerons Cove,5.0,2019-02-07T00:00:00Z,2020-09-01T00:00:00Z
+Shelburne_Woods Harbour_Camerons Cove_13.0_2019-02-07T00:00:00Z_2020-09-01T00:00:00Z,Woods Harbour,Camerons Cove,13.0,2019-02-07T00:00:00Z,2020-09-01T00:00:00Z
 Shelburne_Little Harbour_Little Harbour_8.0_2020-08-19T00:00:00Z_2021-08-13T00:00:00Z,Little Harbour,Little Harbour,8.0,2020-08-19T00:00:00Z,2021-08-13T00:00:00Z
 Shelburne_Shelburne Harbour_McNutts Island_15.0_2020-08-19T00:00:00Z_2021-04-26T00:00:00Z,Shelburne Harbour,McNutts Island,15.0,2020-08-19T00:00:00Z,2021-04-26T00:00:00Z
 Shelburne_Port La Tour_Taylors Rock_5.0_2019-12-17T00:00:00Z_2020-09-16T00:00:00Z,Port La Tour,Taylors Rock,5.0,2019-12-17T00:00:00Z,2020-09-16T00:00:00Z
@@ -746,8 +962,6 @@ Shelburne_Negro Harbour_Ingomar_5.0_2019-12-17T00:00:00Z_2020-09-16T00:00:00Z,Ne
 Shelburne_Green Harbour_Blue Island_2.0_2020-06-17T00:00:00Z_2021-08-13T00:00:00Z,Green Harbour,Blue Island,2.0,2020-06-17T00:00:00Z,2021-08-13T00:00:00Z
 Shelburne_Green Harbour_Blue Island_5.0_2020-06-17T00:00:00Z_2021-08-13T00:00:00Z,Green Harbour,Blue Island,5.0,2020-06-17T00:00:00Z,2021-08-13T00:00:00Z
 Shelburne_Shelburne Harbour_McNutts Island_5.0_2020-08-19T00:00:00Z_2021-04-26T00:00:00Z,Shelburne Harbour,McNutts Island,5.0,2020-08-19T00:00:00Z,2021-04-26T00:00:00Z
-Shelburne_Port La Tour_Taylors Rock_20.0_2019-12-17T00:00:00Z_2020-09-16T00:00:00Z,Port La Tour,Taylors Rock,20.0,2019-12-17T00:00:00Z,2020-09-16T00:00:00Z
-Shelburne_Negro Harbour_Ingomar_15.0_2019-12-17T00:00:00Z_2020-09-16T00:00:00Z,Negro Harbour,Ingomar,15.0,2019-12-17T00:00:00Z,2020-09-16T00:00:00Z
 Shelburne_Port La Tour_Taylors Rock_10.0_2020-09-16T00:00:00Z_2021-04-29T00:00:00Z,Port La Tour,Taylors Rock,10.0,2020-09-16T00:00:00Z,2021-04-29T00:00:00Z
 Shelburne_Port La Tour_Taylors Rock_15.0_2020-09-16T00:00:00Z_2021-04-29T00:00:00Z,Port La Tour,Taylors Rock,15.0,2020-09-16T00:00:00Z,2021-04-29T00:00:00Z
 Shelburne_Port La Tour_Taylors Rock_2.0_2020-09-16T00:00:00Z_2021-04-29T00:00:00Z,Port La Tour,Taylors Rock,2.0,2020-09-16T00:00:00Z,2021-04-29T00:00:00Z
@@ -756,41 +970,51 @@ Shelburne_Negro Harbour_Ingomar_15.0_2020-09-16T00:00:00Z_2021-08-12T00:00:00Z,N
 Shelburne_Negro Harbour_Ingomar_5.0_2020-09-16T00:00:00Z_2021-08-12T00:00:00Z,Negro Harbour,Ingomar,5.0,2020-09-16T00:00:00Z,2021-08-12T00:00:00Z
 Shelburne_Negro Harbour_Ingomar_10.0_2020-09-16T00:00:00Z_2021-08-12T00:00:00Z,Negro Harbour,Ingomar,10.0,2020-09-16T00:00:00Z,2021-08-12T00:00:00Z
 Shelburne_Negro Harbour_Ingomar_2.0_2020-09-16T00:00:00Z_2021-08-12T00:00:00Z,Negro Harbour,Ingomar,2.0,2020-09-16T00:00:00Z,2021-08-12T00:00:00Z
-Shelburne_Shelburne Harbour_McNutts Island_10.0_2020-08-19T00:00:00Z_2021-04-26T00:00:00Z,Shelburne Harbour,McNutts Island,10.0,2020-08-19T00:00:00Z,2021-04-26T00:00:00Z
 Shelburne_Port La Tour_Taylors Rock_10.0_2021-08-12T00:00:00Z_2022-05-29T00:00:00Z,Port La Tour,Taylors Rock,10.0,2021-08-12T00:00:00Z,2022-05-29T00:00:00Z
+Shelburne_Port La Tour_Taylors Rock_2.0_2021-08-12T00:00:00Z_2022-05-29T00:00:00Z,Port La Tour,Taylors Rock,2.0,2021-08-12T00:00:00Z,2022-05-29T00:00:00Z
+Shelburne_Port La Tour_Taylors Rock_15.0_2021-08-12T00:00:00Z_2022-05-29T00:00:00Z,Port La Tour,Taylors Rock,15.0,2021-08-12T00:00:00Z,2022-05-29T00:00:00Z
+Shelburne_Port La Tour_Taylors Rock_20.0_2021-08-12T00:00:00Z_2022-05-29T00:00:00Z,Port La Tour,Taylors Rock,20.0,2021-08-12T00:00:00Z,2022-05-29T00:00:00Z
 Shelburne_Negro Harbour_Ingomar_5.0_2021-08-12T00:00:00Z_2022-08-10T00:00:00Z,Negro Harbour,Ingomar,5.0,2021-08-12T00:00:00Z,2022-08-10T00:00:00Z
+Shelburne_Negro Harbour_Ingomar_15.0_2021-08-12T00:00:00Z_2022-08-10T00:00:00Z,Negro Harbour,Ingomar,15.0,2021-08-12T00:00:00Z,2022-08-10T00:00:00Z
 Shelburne_Negro Harbour_Ingomar_10.0_2021-08-12T00:00:00Z_2022-08-10T00:00:00Z,Negro Harbour,Ingomar,10.0,2021-08-12T00:00:00Z,2022-08-10T00:00:00Z
+Shelburne_Negro Harbour_Ingomar_2.0_2021-08-12T00:00:00Z_2022-08-10T00:00:00Z,Negro Harbour,Ingomar,2.0,2021-08-12T00:00:00Z,2022-08-10T00:00:00Z
+Shelburne_Shelburne Harbour_McNutts Island_20.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Shelburne Harbour,McNutts Island,20.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
 Shelburne_Shelburne Harbour_McNutts Island_15.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Shelburne Harbour,McNutts Island,15.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
+Shelburne_Shelburne Harbour_McNutts Island_10.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Shelburne Harbour,McNutts Island,10.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
 Shelburne_Green Harbour_Blue Island_5.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Green Harbour,Blue Island,5.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
+Shelburne_Green Harbour_Blue Island_10.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Green Harbour,Blue Island,10.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
 Shelburne_Green Harbour_Blue Island_2.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Green Harbour,Blue Island,2.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
 Shelburne_Little Harbour_Little Harbour_5.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Little Harbour,Little Harbour,5.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
 Shelburne_Little Harbour_Little Harbour_8.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Little Harbour,Little Harbour,8.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
-Shelburne_Port La Tour_Taylors Rock_20.0_2021-08-12T00:00:00Z_2022-05-29T00:00:00Z,Port La Tour,Taylors Rock,20.0,2021-08-12T00:00:00Z,2022-05-29T00:00:00Z
-Shelburne_Negro Harbour_Ingomar_15.0_2021-08-12T00:00:00Z_2022-08-10T00:00:00Z,Negro Harbour,Ingomar,15.0,2021-08-12T00:00:00Z,2022-08-10T00:00:00Z
-Shelburne_Port La Tour_Taylors Rock 1_15.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Port La Tour,Taylors Rock 1,15.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
-Shelburne_Negro Harbour_Ingomar_2.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Negro Harbour,Ingomar,2.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
-Shelburne_Negro Harbour_Ingomar_5.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Negro Harbour,Ingomar,5.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
-Shelburne_Shelburne Harbour_McNutts Island_20.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Shelburne Harbour,McNutts Island,20.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
-Shelburne_Green Harbour_Blue Island_10.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Green Harbour,Blue Island,10.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
+Shelburne_Little Harbour_Little Harbour_2.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Little Harbour,Little Harbour,2.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
 Shelburne_Little Harbour_Little Harbour_10.0_2021-08-13T00:00:00Z_2022-08-11T00:00:00Z,Little Harbour,Little Harbour,10.0,2021-08-13T00:00:00Z,2022-08-11T00:00:00Z
+Shelburne_Port La Tour_Taylors Rock 1_15.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Port La Tour,Taylors Rock 1,15.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
+Shelburne_Port La Tour_Taylors Rock 1_10.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Port La Tour,Taylors Rock 1,10.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
+Shelburne_Port La Tour_Taylors Rock 1_2.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Port La Tour,Taylors Rock 1,2.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
+Shelburne_Port La Tour_Taylors Rock 1_22.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Port La Tour,Taylors Rock 1,22.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
+Shelburne_Negro Harbour_Ingomar_15.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Negro Harbour,Ingomar,15.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
+Shelburne_Negro Harbour_Ingomar_2.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Negro Harbour,Ingomar,2.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
+Shelburne_Negro Harbour_Ingomar_10.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Negro Harbour,Ingomar,10.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
+Shelburne_Negro Harbour_Ingomar_5.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Negro Harbour,Ingomar,5.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
+Shelburne_Green Harbour_Blue Island_10.0_2022-08-11T00:00:00Z_2023-07-13T00:00:00Z,Green Harbour,Blue Island,10.0,2022-08-11T00:00:00Z,2023-07-13T00:00:00Z
 Shelburne_Green Harbour_Blue Island_2.0_2022-08-11T00:00:00Z_2023-07-13T00:00:00Z,Green Harbour,Blue Island,2.0,2022-08-11T00:00:00Z,2023-07-13T00:00:00Z
 Shelburne_Green Harbour_Blue Island_5.0_2022-08-11T00:00:00Z_2023-07-13T00:00:00Z,Green Harbour,Blue Island,5.0,2022-08-11T00:00:00Z,2023-07-13T00:00:00Z
 Shelburne_Little Harbour_Little Harbour_2.0_2022-08-11T00:00:00Z_2023-07-13T00:00:00Z,Little Harbour,Little Harbour,2.0,2022-08-11T00:00:00Z,2023-07-13T00:00:00Z
-Shelburne_Shelburne Harbour_McNutts Island_10.0_2022-08-11T00:00:00Z_2024-06-19T00:00:00Z,Shelburne Harbour,McNutts Island,10.0,2022-08-11T00:00:00Z,2024-06-19T00:00:00Z
-Shelburne_Shelburne Harbour_McNutts Island_5.0_2022-08-11T00:00:00Z_2024-06-19T00:00:00Z,Shelburne Harbour,McNutts Island,5.0,2022-08-11T00:00:00Z,2024-06-19T00:00:00Z
-Shelburne_Port La Tour_Taylors Rock_22.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Port La Tour,Taylors Rock,22.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
-Shelburne_Port La Tour_Taylors Rock 1_22.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Port La Tour,Taylors Rock 1,22.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
+Shelburne_Little Harbour_Little Harbour_8.0_2022-08-11T00:00:00Z_2023-07-13T00:00:00Z,Little Harbour,Little Harbour,8.0,2022-08-11T00:00:00Z,2023-07-13T00:00:00Z
 Shelburne_Little Harbour_Little Harbour_10.0_2022-08-11T00:00:00Z_2023-07-13T00:00:00Z,Little Harbour,Little Harbour,10.0,2022-08-11T00:00:00Z,2023-07-13T00:00:00Z
-Shelburne_Green Harbour_Blue Island_10.0_2022-08-11T00:00:00Z_2023-07-13T00:00:00Z,Green Harbour,Blue Island,10.0,2022-08-11T00:00:00Z,2023-07-13T00:00:00Z
+Shelburne_Shelburne Harbour_McNutts Island_10.0_2022-08-11T00:00:00Z_2024-06-19T00:00:00Z,Shelburne Harbour,McNutts Island,10.0,2022-08-11T00:00:00Z,2024-06-19T00:00:00Z
+Shelburne_Shelburne Harbour_McNutts Island_2.0_2022-08-11T00:00:00Z_2024-06-19T00:00:00Z,Shelburne Harbour,McNutts Island,2.0,2022-08-11T00:00:00Z,2024-06-19T00:00:00Z
+Shelburne_Shelburne Harbour_McNutts Island_5.0_2022-08-11T00:00:00Z_2024-06-19T00:00:00Z,Shelburne Harbour,McNutts Island,5.0,2022-08-11T00:00:00Z,2024-06-19T00:00:00Z
 Shelburne_Green Harbour_Blue Island_5.0_2023-07-13T00:00:00Z_2024-07-25T00:00:00Z,Green Harbour,Blue Island,5.0,2023-07-13T00:00:00Z,2024-07-25T00:00:00Z
 Shelburne_Green Harbour_Blue Island_2.0_2023-07-13T00:00:00Z_2024-07-25T00:00:00Z,Green Harbour,Blue Island,2.0,2023-07-13T00:00:00Z,2024-07-25T00:00:00Z
-Shelburne_Negro Harbour_Ingomar_15.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Negro Harbour,Ingomar,15.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
-Shelburne_Port La Tour_Taylors Rock_15.0_2022-08-10T00:00:00Z_2023-07-13T00:00:00Z,Port La Tour,Taylors Rock,15.0,2022-08-10T00:00:00Z,2023-07-13T00:00:00Z
 Victoria_Aspy Bay_North Harbour_2.0_2018-11-01T00:00:00Z_2020-09-10T00:00:00Z,Aspy Bay,North Harbour,2.0,2018-11-01T00:00:00Z,2020-09-10T00:00:00Z
 Victoria_Aspy Bay_North Harbour_5.0_2018-11-01T00:00:00Z_2020-09-10T00:00:00Z,Aspy Bay,North Harbour,5.0,2018-11-01T00:00:00Z,2020-09-10T00:00:00Z
+Yarmouth_Lobster Bay_Lobster Bay_5.0_2020-06-22T00:00:00Z_2020-09-16T00:00:00Z,Lobster Bay,Lobster Bay,5.0,2020-06-22T00:00:00Z,2020-09-16T00:00:00Z
 Yarmouth_Lobster Bay_Lobster Bay_4.0_2020-06-22T00:00:00Z_2020-09-16T00:00:00Z,Lobster Bay,Lobster Bay,4.0,2020-06-22T00:00:00Z,2020-09-16T00:00:00Z
+Yarmouth_Lobster Bay_Morris Island_4.0_2020-06-16T00:00:00Z_2020-09-15T00:00:00Z,Lobster Bay,Morris Island,4.0,2020-06-16T00:00:00Z,2020-09-15T00:00:00Z
 Yarmouth_Lobster Bay_Morris Island_3.0_2020-06-16T00:00:00Z_2020-09-15T00:00:00Z,Lobster Bay,Morris Island,3.0,2020-06-16T00:00:00Z,2020-09-15T00:00:00Z
 Yarmouth_Lobster Bay_Ram Island_8.0_2020-06-22T00:00:00Z_2021-07-08T00:00:00Z,Lobster Bay,Ram Island,8.0,2020-06-22T00:00:00Z,2021-07-08T00:00:00Z
+Yarmouth_Lobster Bay_Wedgeport_5.0_2020-06-16T00:00:00Z_2020-09-16T00:00:00Z,Lobster Bay,Wedgeport,5.0,2020-06-16T00:00:00Z,2020-09-16T00:00:00Z
 Yarmouth_Lobster Bay_Wedgeport_4.5_2020-06-16T00:00:00Z_2020-09-16T00:00:00Z,Lobster Bay,Wedgeport,4.5,2020-06-16T00:00:00Z,2020-09-16T00:00:00Z
 Yarmouth_Lobster Bay_Wedgeport_2.0_2020-06-16T00:00:00Z_2020-09-16T00:00:00Z,Lobster Bay,Wedgeport,2.0,2020-06-16T00:00:00Z,2020-09-16T00:00:00Z
 Yarmouth_Lobster Bay_Lobster Bay_2.0_2020-06-22T00:00:00Z_2020-09-16T00:00:00Z,Lobster Bay,Lobster Bay,2.0,2020-06-22T00:00:00Z,2020-09-16T00:00:00Z
@@ -799,29 +1023,33 @@ Yarmouth_Lobster Bay_Lobster Bay_3.0_2020-06-22T00:00:00Z_2020-09-16T00:00:00Z,L
 Yarmouth_Lobster Bay_Wedgeport_4.0_2020-06-16T00:00:00Z_2020-09-16T00:00:00Z,Lobster Bay,Wedgeport,4.0,2020-06-16T00:00:00Z,2020-09-16T00:00:00Z
 Yarmouth_Lobster Bay_Ram Island_2.0_2020-06-22T00:00:00Z_2021-07-08T00:00:00Z,Lobster Bay,Ram Island,2.0,2020-06-22T00:00:00Z,2021-07-08T00:00:00Z
 Yarmouth_Lobster Bay_Ram Island_5.0_2020-06-22T00:00:00Z_2021-07-08T00:00:00Z,Lobster Bay,Ram Island,5.0,2020-06-22T00:00:00Z,2021-07-08T00:00:00Z
-Yarmouth_Lobster Bay_Wedgeport_5.0_2020-06-16T00:00:00Z_2020-09-16T00:00:00Z,Lobster Bay,Wedgeport,5.0,2020-06-16T00:00:00Z,2020-09-16T00:00:00Z
 Yarmouth_Lobster Bay_Morris Island_2.0_2020-09-15T00:00:00Z_2021-07-08T00:00:00Z,Lobster Bay,Morris Island,2.0,2020-09-15T00:00:00Z,2021-07-08T00:00:00Z
 Yarmouth_Lobster Bay_Morris Island_3.0_2020-09-15T00:00:00Z_2021-07-08T00:00:00Z,Lobster Bay,Morris Island,3.0,2020-09-15T00:00:00Z,2021-07-08T00:00:00Z
 Yarmouth_Lobster Bay_Morris Island_4.0_2020-09-15T00:00:00Z_2021-07-08T00:00:00Z,Lobster Bay,Morris Island,4.0,2020-09-15T00:00:00Z,2021-07-08T00:00:00Z
 Yarmouth_Lobster Bay_Wedgeport_2.0_2020-09-16T00:00:00Z_2021-07-08T00:00:00Z,Lobster Bay,Wedgeport,2.0,2020-09-16T00:00:00Z,2021-07-08T00:00:00Z
 Yarmouth_Lobster Bay_Wedgeport_4.0_2020-09-16T00:00:00Z_2021-07-08T00:00:00Z,Lobster Bay,Wedgeport,4.0,2020-09-16T00:00:00Z,2021-07-08T00:00:00Z
 Yarmouth_Lobster Bay_Wedgeport_4.5_2020-09-16T00:00:00Z_2021-07-08T00:00:00Z,Lobster Bay,Wedgeport,4.5,2020-09-16T00:00:00Z,2021-07-08T00:00:00Z
+Yarmouth_Lobster Bay_Wedgeport_5.0_2020-09-16T00:00:00Z_2021-07-08T00:00:00Z,Lobster Bay,Wedgeport,5.0,2020-09-16T00:00:00Z,2021-07-08T00:00:00Z
 Yarmouth_Chebogue Harbour_Big Pond Point_5.0_2021-07-08T00:00:00Z_2021-11-09T00:00:00Z,Chebogue Harbour,Big Pond Point,5.0,2021-07-08T00:00:00Z,2021-11-09T00:00:00Z
 Yarmouth_Chebogue Harbour_Big Pond Point_12.0_2021-07-08T00:00:00Z_2021-11-09T00:00:00Z,Chebogue Harbour,Big Pond Point,12.0,2021-07-08T00:00:00Z,2021-11-09T00:00:00Z
 Yarmouth_Chebogue Harbour_Big Pond Point_2.0_2021-07-08T00:00:00Z_2021-11-09T00:00:00Z,Chebogue Harbour,Big Pond Point,2.0,2021-07-08T00:00:00Z,2021-11-09T00:00:00Z
+Yarmouth_Chebogue Harbour_Big Pond Point_10.0_2021-07-08T00:00:00Z_2021-11-09T00:00:00Z,Chebogue Harbour,Big Pond Point,10.0,2021-07-08T00:00:00Z,2021-11-09T00:00:00Z
 Yarmouth_Lobster Bay_Morris Island_3.0_2021-07-08T00:00:00Z_2021-07-19T00:00:00Z,Lobster Bay,Morris Island,3.0,2021-07-08T00:00:00Z,2021-07-19T00:00:00Z
 Yarmouth_Lobster Bay_Wedgeport_4.5_2021-07-08T00:00:00Z_2022-06-21T00:00:00Z,Lobster Bay,Wedgeport,4.5,2021-07-08T00:00:00Z,2022-06-21T00:00:00Z
 Yarmouth_Lobster Bay_Wedgeport_4.0_2021-07-08T00:00:00Z_2022-06-21T00:00:00Z,Lobster Bay,Wedgeport,4.0,2021-07-08T00:00:00Z,2022-06-21T00:00:00Z
 Yarmouth_Lobster Bay_Morris Island_2.0_2021-07-08T00:00:00Z_2021-07-19T00:00:00Z,Lobster Bay,Morris Island,2.0,2021-07-08T00:00:00Z,2021-07-19T00:00:00Z
 Yarmouth_Lobster Bay_Wedgeport_2.0_2021-07-08T00:00:00Z_2022-06-21T00:00:00Z,Lobster Bay,Wedgeport,2.0,2021-07-08T00:00:00Z,2022-06-21T00:00:00Z
+Yarmouth_Lobster Bay_Morris Island_4.0_2021-07-08T00:00:00Z_2021-07-19T00:00:00Z,Lobster Bay,Morris Island,4.0,2021-07-08T00:00:00Z,2021-07-19T00:00:00Z
 Yarmouth_Lobster Bay_Ram Island_8.0_2021-07-08T00:00:00Z_2022-06-21T00:00:00Z,Lobster Bay,Ram Island,8.0,2021-07-08T00:00:00Z,2022-06-21T00:00:00Z
+Yarmouth_Lobster Bay_Wedgeport_5.0_2021-07-08T00:00:00Z_2022-06-21T00:00:00Z,Lobster Bay,Wedgeport,5.0,2021-07-08T00:00:00Z,2022-06-21T00:00:00Z
 Yarmouth_Lobster Bay_Ram Island_2.0_2021-07-08T00:00:00Z_2022-06-21T00:00:00Z,Lobster Bay,Ram Island,2.0,2021-07-08T00:00:00Z,2022-06-21T00:00:00Z
 Yarmouth_Lobster Bay_Ram Island_5.0_2021-07-08T00:00:00Z_2022-06-21T00:00:00Z,Lobster Bay,Ram Island,5.0,2021-07-08T00:00:00Z,2022-06-21T00:00:00Z
-Yarmouth_Chebogue Harbour_Big Pond Point_10.0_2021-11-09T00:00:00Z_2022-06-21T00:00:00Z,Chebogue Harbour,Big Pond Point,10.0,2021-11-09T00:00:00Z,2022-06-21T00:00:00Z
 Yarmouth_Chebogue Harbour_Big Pond Point_12.0_2021-11-09T00:00:00Z_2022-06-21T00:00:00Z,Chebogue Harbour,Big Pond Point,12.0,2021-11-09T00:00:00Z,2022-06-21T00:00:00Z
+Yarmouth_Chebogue Harbour_Big Pond Point_10.0_2021-11-09T00:00:00Z_2022-06-21T00:00:00Z,Chebogue Harbour,Big Pond Point,10.0,2021-11-09T00:00:00Z,2022-06-21T00:00:00Z
+Yarmouth_Chebogue Harbour_Big Pond Point_2.0_2021-11-09T00:00:00Z_2022-06-21T00:00:00Z,Chebogue Harbour,Big Pond Point,2.0,2021-11-09T00:00:00Z,2022-06-21T00:00:00Z
+Yarmouth_Chebogue Harbour_Big Pond Point_12.0_2022-06-21T00:00:00Z_2023-08-03T00:00:00Z,Chebogue Harbour,Big Pond Point,12.0,2022-06-21T00:00:00Z,2023-08-03T00:00:00Z
 Yarmouth_Chebogue Harbour_Big Pond Point_10.0_2022-06-21T00:00:00Z_2023-08-03T00:00:00Z,Chebogue Harbour,Big Pond Point,10.0,2022-06-21T00:00:00Z,2023-08-03T00:00:00Z
 Yarmouth_Chebogue Harbour_Big Pond Point_2.0_2022-06-21T00:00:00Z_2023-08-03T00:00:00Z,Chebogue Harbour,Big Pond Point,2.0,2022-06-21T00:00:00Z,2023-08-03T00:00:00Z
-Yarmouth_Lobster Bay_Wedgeport_5.0_2021-07-08T00:00:00Z_2022-06-21T00:00:00Z,Lobster Bay,Wedgeport,5.0,2021-07-08T00:00:00Z,2022-06-21T00:00:00Z
 Yarmouth_Lobster Bay_Lobster Bay_2.0_2022-06-21T00:00:00Z_2023-08-02T00:00:00Z,Lobster Bay,Lobster Bay,2.0,2022-06-21T00:00:00Z,2023-08-02T00:00:00Z
 Yarmouth_Lobster Bay_Lobster Bay_4.0_2022-06-21T00:00:00Z_2023-08-02T00:00:00Z,Lobster Bay,Lobster Bay,4.0,2022-06-21T00:00:00Z,2023-08-02T00:00:00Z
 Yarmouth_Lobster Bay_Lobster Bay_4.5_2022-06-21T00:00:00Z_2023-08-02T00:00:00Z,Lobster Bay,Lobster Bay,4.5,2022-06-21T00:00:00Z,2023-08-02T00:00:00Z
@@ -836,17 +1064,19 @@ Yarmouth_Lobster Bay_Ram Island_8.0_2022-06-21T00:00:00Z_2023-08-02T00:00:00Z,Lo
 Yarmouth_Lobster Bay_Lobster Bay_4.0_2023-08-02T00:00:00Z_2024-08-07T00:00:00Z,Lobster Bay,Lobster Bay,4.0,2023-08-02T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Lobster Bay_Lobster Bay_2.0_2023-08-02T00:00:00Z_2024-08-07T00:00:00Z,Lobster Bay,Lobster Bay,2.0,2023-08-02T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Lobster Bay_Lobster Bay_4.5_2023-08-02T00:00:00Z_2024-08-07T00:00:00Z,Lobster Bay,Lobster Bay,4.5,2023-08-02T00:00:00Z,2024-08-07T00:00:00Z
+Yarmouth_Lobster Bay_Lobster Bay_5.0_2023-08-02T00:00:00Z_2024-08-07T00:00:00Z,Lobster Bay,Lobster Bay,5.0,2023-08-02T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Lobster Bay_Ram Island_8.0_2023-08-02T00:00:00Z_2024-08-07T00:00:00Z,Lobster Bay,Ram Island,8.0,2023-08-02T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Lobster Bay_Ram Island_2.0_2023-08-02T00:00:00Z_2024-08-07T00:00:00Z,Lobster Bay,Ram Island,2.0,2023-08-02T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Lobster Bay_Ram Island_5.0_2023-08-02T00:00:00Z_2024-08-07T00:00:00Z,Lobster Bay,Ram Island,5.0,2023-08-02T00:00:00Z,2024-08-07T00:00:00Z
-Yarmouth_Chebogue Harbour_Big Pond Point_12.0_2022-06-21T00:00:00Z_2023-08-03T00:00:00Z,Chebogue Harbour,Big Pond Point,12.0,2022-06-21T00:00:00Z,2023-08-03T00:00:00Z
 Yarmouth_Chebogue Harbour_Big Pond Point_5.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Chebogue Harbour,Big Pond Point,5.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Chebogue Harbour_Big Pond Point_10.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Chebogue Harbour,Big Pond Point,10.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
+Yarmouth_Chebogue Harbour_Big Pond Point_2.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Chebogue Harbour,Big Pond Point,2.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Careys Cove_Yarmouth Bar_10.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Careys Cove,Yarmouth Bar,10.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
+Yarmouth_Careys Cove_Yarmouth Bar_2.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Careys Cove,Yarmouth Bar,2.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
+Yarmouth_Careys Cove_Yarmouth Bar_15.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Careys Cove,Yarmouth Bar,15.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
+Yarmouth_Chebogue Harbour_Big Pond Point_12.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Chebogue Harbour,Big Pond Point,12.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Careys Cove_Yarmouth Bar_5.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Careys Cove,Yarmouth Bar,5.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Lamonts Cove_Short Beach_5.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Lamonts Cove,Short Beach,5.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Lamonts Cove_Short Beach_10.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Lamonts Cove,Short Beach,10.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
-Yarmouth_Chebogue Harbour_Big Pond Point_12.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Chebogue Harbour,Big Pond Point,12.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
-Yarmouth_Lobster Bay_Lobster Bay_5.0_2023-08-02T00:00:00Z_2024-08-07T00:00:00Z,Lobster Bay,Lobster Bay,5.0,2023-08-02T00:00:00Z,2024-08-07T00:00:00Z
+Yarmouth_Lamonts Cove_Short Beach_2.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Lamonts Cove,Short Beach,2.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
 Yarmouth_Lamonts Cove_Short Beach_15.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Lamonts Cove,Short Beach,15.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
-Yarmouth_Careys Cove_Yarmouth Bar_15.0_2023-08-03T00:00:00Z_2024-08-07T00:00:00Z,Careys Cove,Yarmouth Bar,15.0,2023-08-03T00:00:00Z,2024-08-07T00:00:00Z
