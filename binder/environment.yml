@@ -2,11 +2,12 @@ name: env
 channels:
   - conda-forge
 dependencies:
+  - jupyterlab
+  - mystmd
+  - jupyterlab-myst
   - numpy
   - matplotlib
   - pandas
   - erddapy
   - nodejs
-  - mystmd
-  - jupyterlab
   - tqdm
