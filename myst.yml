@@ -16,7 +16,7 @@ project:
     binder:
       url: https://binder.opensci.2i2c.cloud/
   toc:
-    - file: intro.md
+    - file: Introduction.ipynb
     - file: DownloadData.ipynb
     - file: CombineSegments.ipynb
     - file: Imputation.ipynb
