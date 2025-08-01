@@ -13,4 +13,5 @@ dependencies:
   - erddapy
   - nodejs
   - tqdm
-  - sklearn
+  - scikit-learn
+  - statsmodels
