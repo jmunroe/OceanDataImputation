@@ -8,6 +8,7 @@ dependencies:
   - numpy
   - matplotlib
   - seaborn
+  - holoviews
   - pandas
   - erddapy
   - nodejs
