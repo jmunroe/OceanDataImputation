@@ -13,3 +13,4 @@ dependencies:
   - erddapy
   - nodejs
   - tqdm
+  - sklearn
