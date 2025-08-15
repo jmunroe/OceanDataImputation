@@ -17,12 +17,13 @@ project:
       url: https://binder.opensci.2i2c.cloud/
   toc:
     - file: 01_Introduction.ipynb
-    - file: 02_DownloadData.ipynb
-    - file: 03_CombineSegments.ipynb
+    - file: 02_PrepareDataset.ipynb
+    - file: 03_DataExploration.ipynb
     - file: 04_Imputation.ipynb
     - file: 05_Estimate.ipynb
     - file: 06_Experiments.ipynb
     - file: 07_Visualize.ipynb
+    - file: 08_CaseStudyAIS.ipynb
     
 site:
   template: book-theme
