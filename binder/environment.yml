@@ -12,6 +12,7 @@ dependencies:
   - pandas
   - erddapy
   - nodejs
+  - rich
   - tqdm
   - scikit-learn
   - statsmodels

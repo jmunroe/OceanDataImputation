@@ -17,13 +17,17 @@ project:
       url: https://binder.opensci.2i2c.cloud/
   toc:
     - file: 01_Introduction.ipynb
-    - file: 02_PrepareDataset.ipynb
-    - file: 03_DataExploration.ipynb
-    - file: 04_Imputation.ipynb
-    - file: 05_Hyperparameters.ipynb
-    - file: 06_Experiments.ipynb
-    - file: 07_Visualize.ipynb
-    - file: 08_CaseStudyAIS.ipynb
+    - file: 02_Exploration.ipynb
+    - file: 03_Imputation.ipynb
+    - file: 04_Experiments.ipynb
+    - file: 05_Results.ipynb
+    - file: 06_CaseStudy_Shelburne.ipynb
+    - file: 07_CaseStudy_AIS.ipynb
+    - file: 08_CaseStudy_CMAR.ipynb
+    - file: 09_CaseStudy_BYOD.ipynb
+    - file: Appendix_DatasetDetails.ipynb
+    - file: Appendix_Visualization.ipynb
+    - file: Appendix_Hyperparamaters.ipynb
     
 site:
   template: book-theme
