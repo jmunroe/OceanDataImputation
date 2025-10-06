@@ -21,7 +21,7 @@ project:
     - file: 03_Imputation.ipynb
     - file: 04_Experiments.ipynb
     - file: 05_Results.ipynb
-    - file: 06_CaseStudy_Shelburne.ipynb
+    - file: 06_CaseStudy_Shelborne.ipynb
     - file: 07_CaseStudy_AIS.ipynb
     - file: 08_CaseStudy_CMAR.ipynb
     - file: 09_CaseStudy_BYOD.ipynb
