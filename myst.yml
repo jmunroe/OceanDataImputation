@@ -26,7 +26,7 @@ project:
     - file: 08_CaseStudy_CMAR.ipynb
     - file: 09_CaseStudy_BYOD.ipynb
     - file: Appendix_Visualization.ipynb
-    - file: Appendix_Hyperparamaters.ipynb
+    - file: Appendix_Hyperparameters.ipynb
     
 site:
   template: book-theme
