@@ -13,8 +13,8 @@ project:
     - James Munroe
   github: https://github.com/jmunroe/OceanDataImputation
   jupyter:
-    binder:
-      url: https://binder.opensci.2i2c.cloud/
+    server:
+      url: https://odi.cioosatlantic.ca
   toc:
     - file: 01_Introduction.ipynb
     - file: 02_Exploration.ipynb
