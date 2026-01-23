@@ -7,12 +7,9 @@ dependencies:
   - jupyterlab-myst
   - numpy
   - matplotlib
-  - seaborn
   - holoviews
   - pandas
   - erddapy
-  - nodejs
-  - rich
-  - tqdm
   - scikit-learn
   - statsmodels
+  - rich
