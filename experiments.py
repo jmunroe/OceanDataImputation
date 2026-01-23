@@ -164,7 +164,7 @@ def run_experiment(imputer, minimum_missing_data=0,
     The results are cached in a pickle file and passed back as a dictionary.
     """
 
-    experiment_name = f"{repr(imputer)}_missing{minimum_missing_data}_sites{num_sites}_gaplen{gap_length}"
+    experiment_name = f"{dataset}_{repr(imputer)}_missing{minimum_missing_data}_sites{num_sites}_gaplen{gap_length}"
     experiment_name = make_valid_filename(experiment_name)
     results_filename = f'results/{experiment_name}.pkl'
 
@@ -177,7 +177,10 @@ def run_experiment(imputer, minimum_missing_data=0,
     # load the data
     df = pd.read_csv(dataset, parse_dates=True, index_col=0)
     df = df.rename(columns = lambda x: 'S_'+x)
-      
+
+    # Replace one or more spaces or hyphens with a single underscore
+    df.columns = df.columns.str.replace('[ -]+', '_', regex=True)
+
     # Calculate the percentage of non-missing data for each study site
     non_missing_percentage = df.notna().mean() * 100
     

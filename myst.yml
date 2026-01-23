@@ -25,6 +25,7 @@ project:
     - file: 07_CaseStudy_AIS.ipynb
     - file: 08_CaseStudy_CMAR.ipynb
     - file: 09_CaseStudy_BYOD.ipynb
+    - file: 10_Compare_Algorithms.ipynb
     - file: Appendix_Visualization.ipynb
     - file: Appendix_Hyperparameters.ipynb
     
