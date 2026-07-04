@@ -175,3 +175,8 @@ cython_debug/
 
 # MyST build outputs
 _build
+
+# Local datasets and outputs (large, not for git)
+data/
+results/
+segments/
